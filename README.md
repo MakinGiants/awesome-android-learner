@@ -32,6 +32,8 @@ Some reference list a mobile creative development.
 1. [Google Play](https://developer.android.com/about/dashboards/index.html)
 1. [AppBrain](http://www.appbrain.com/stats/top-android-sdk-versions)
 
+## Cool Articles 
+1. [Clean Architecture](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
 
 #iOS 
 
