@@ -3,6 +3,10 @@ Some reference list a mobile creative development.
 
 # Android
 
+## Tools
+* (Android Design Tips)[http://www.androiddesign.tips/]
+* (Android Asset Studio)[http://romannurik.github.io/AndroidAssetStudio/]
+
 ## Awesome Libs
 * https://github.com/wasabeef/awesome-android-ui
 * https://github.com/JStumpp/awesome-android
