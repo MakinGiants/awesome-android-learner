@@ -6,6 +6,7 @@ Some reference list a mobile creative development.
 ## Tools
 * [Android Design Tips](http://www.androiddesign.tips/): Assets helper
 * [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/): Assets helper
+* [Device sizes](http://viewportsizes.com/)
 * [Alfi](https://github.com/cesarferreira/alfi): library management
 
 ## Awesome Libs
