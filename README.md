@@ -23,6 +23,7 @@ Some reference list a mobile creative development.
 * [Android Beautiful](https://github.com/snowdream/awesome-android#ImageView): list of categorised libraries for android.
 * [Design for Pre lollipop -compat](http://android-developers.blogspot.com/2014/10/appcompat-v21-material-design-for-pre.html)
 * [Material design checklist](http://android-developers.blogspot.com/2014/10/material-design-on-android-checklist.html)
+* [Image load - Glide vs Picasso?](http://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en)
 
 ## Dev Apps
 * [Clean Status Bar](https://play.google.com/store/apps/details?id=com.emmaguy.cleanstatusbar) that helps with this.
