@@ -24,7 +24,7 @@ Some reference list a mobile creative development.
 * [Design for Pre lollipop -compat](http://android-developers.blogspot.com/2014/10/appcompat-v21-material-design-for-pre.html)
 * [Material design checklist](http://android-developers.blogspot.com/2014/10/material-design-on-android-checklist.html)
 * [Image load - Glide vs Picasso?](http://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en)
-
+* [Why use volley](https://developers.google.com/events/io/sessions/325304728): cool explanation volley (wow).
 ## Dev Apps
 * [Clean Status Bar](https://play.google.com/store/apps/details?id=com.emmaguy.cleanstatusbar) that helps with this.
 * [Material](https://play.google.com/store/apps/details?id=fr.hozakan.materialdesigncolorpalette)
