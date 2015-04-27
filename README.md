@@ -39,6 +39,16 @@ Some reference list a mobile creative development.
 1. [Google Play](https://developer.android.com/about/dashboards/index.html)
 1. [AppBrain](http://www.appbrain.com/stats/top-android-sdk-versions)
 
+## Cool development devices:
+1. `Nexus 6` because of resolution (xxxhdpi).
+1. `Samsung S5` becuase of popularity.
+1. `Nexus S` mini because of the size and android version (Official ROMs )[https://developers.google.com/android/nexus/images].
+1. `Moto g 2014` because of popularity.
+
+## For tablets:
+1. `Nexus 7 2013` because of the size and (Official ROMs)[https://developers.google.com/android/nexus/images].
+
+
 ## Cool Articles 
 1. [Clean Architecture](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
 
