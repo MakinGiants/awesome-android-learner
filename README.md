@@ -13,21 +13,25 @@ Some reference list a mobile creative development.
 * https://github.com/wasabeef/awesome-android-ui
 * https://github.com/JStumpp/awesome-android
 * https://github.com/snowdream/awesome-android
+* [Android libs](http://androidlibs.org/)
 
 ## Tutorials
-* [Make Apps Beautiful](https://www.youtube.com/watch?v=CWIc6QE6iNc&list=UUVHFbqXqoYvEWM1Ddxl0QDg)
+* [OFFICIAL GOOLE COURSE - Performance](https://www.udacity.com/course/android-performance--ud825)
+* [OFFICIAL GOOGLE COURSE - Android ](https://www.udacity.com/course/android-performance--ud825)
 * [Google Developers Channel](https://www.youtube.com/user/GoogleDevelopers)
 * [Android Developers](https://www.youtube.com/user/androiddevelopers)
 * [Ray Wenderlich](http://www.raywenderlich.com/56107/make-first-android-app-part-1)
-* [Android libs](http://androidlibs.org/)
-* [Android Beautiful](https://github.com/snowdream/awesome-android#ImageView): list of categorised libraries for android.
 * [Design for Pre lollipop -compat](http://android-developers.blogspot.com/2014/10/appcompat-v21-material-design-for-pre.html)
+
+## Cool posts
 * [Material design checklist](http://android-developers.blogspot.com/2014/10/material-design-on-android-checklist.html)
+* [Make Apps Beautiful](https://www.youtube.com/watch?v=CWIc6QE6iNc&list=UUVHFbqXqoYvEWM1Ddxl0QDg)
 * [Image load - Glide vs Picasso?](http://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en)
 * [Why use volley](https://developers.google.com/events/io/sessions/325304728): cool explanation volley (wow).
-## Dev Apps
-* [Clean Status Bar](https://play.google.com/store/apps/details?id=com.emmaguy.cleanstatusbar) that helps with this.
+
+## Apps for developers
 * [Material](https://play.google.com/store/apps/details?id=fr.hozakan.materialdesigncolorpalette)
+* [Clean Status Bar](https://play.google.com/store/apps/details?id=com.emmaguy.cleanstatusbar) that helps with this.
 
 ## Tips
 * [Wireless debug](http://developer.android.com/tools/help/adb.html)
