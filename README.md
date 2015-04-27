@@ -1,5 +1,5 @@
 # Awesome-Mobile-Android-iOS-more-
-Some reference list a mobile creative development.
+Some reference list for creative mobile development.
 
 # Android
 
