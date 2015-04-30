@@ -30,8 +30,9 @@ Some reference list for creative mobile development.
 * [Why use volley](https://developers.google.com/events/io/sessions/325304728): cool explanation volley (wow).
 
 ## Apps for developers
-* [Material](https://play.google.com/store/apps/details?id=fr.hozakan.materialdesigncolorpalette)
-* [Clean Status Bar](https://play.google.com/store/apps/details?id=com.emmaguy.cleanstatusbar) that helps with this.
+* [Android - Material](https://play.google.com/store/apps/details?id=fr.hozakan.materialdesigncolorpalette)
+* [Android - Clean Status Bar](https://play.google.com/store/apps/details?id=com.emmaguy.cleanstatusbar) that helps with this.
+* [Mac - Android Tool](https://github.com/mortenjust/androidtool-mac): take easy screenshots
 
 ## Tips
 * [Wireless debug](http://developer.android.com/tools/help/adb.html)
