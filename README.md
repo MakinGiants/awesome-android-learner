@@ -1,6 +1,3 @@
-# Awesome-Mobile-Android-iOS-more-
-Some reference list for creative mobile development.
-
 # Android
 
 ## Tools
