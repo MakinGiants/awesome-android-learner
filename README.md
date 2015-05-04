@@ -23,6 +23,7 @@
 * [Android Developers](https://www.youtube.com/user/androiddevelopers)
 * [Ray Wenderlich](http://www.raywenderlich.com/56107/make-first-android-app-part-1)
 * [Design for Pre lollipop -compat](http://android-developers.blogspot.com/2014/10/appcompat-v21-material-design-for-pre.html)
+* [Codepath Android Wiki](https://github.com/codepath/android_guides)
 
 ## Cool posts
 * [Material design checklist](http://android-developers.blogspot.com/2014/10/material-design-on-android-checklist.html)
@@ -84,6 +85,7 @@
 * [How to use NSError](http://nshipster.com/nserror/)
 * [Swift Documentation](http://nshipster.com/swift-documentation/)
 * [Autolayout/Constraints 1](http://www.raywenderlich.com/94563/video-tutorial-intro-auto-layout-part-0-introduction)
+* [Codepath ios Wiki](https://github.com/codepath/ios_guides)
 
 ## Some Awesome Libraries 
 * [Animated Pull to Refresh](https://github.com/JackrabbitMobile/JackrabbitRefresh)
