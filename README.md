@@ -4,11 +4,10 @@
 # How To Contribute
 1. Fork this repo.
 1. Edit your README.md file adding the new item in the category (create one if don´t fit) with format:
-* [`Name`](`link`): `description`.
+* `[name](link)`: `description`.
 1. Pull request with format:
-* title: + `Category` `Library-name`
-* comment:[`Library-name`](link) 
-
+* title: `+ Category name`
+* comment:`[name](link)` 
 
 # Android
 
