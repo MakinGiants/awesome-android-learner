@@ -86,8 +86,9 @@
 * [Swift Documentation](http://nshipster.com/swift-documentation/)
 * [Autolayout/Constraints 1](http://www.raywenderlich.com/94563/video-tutorial-intro-auto-layout-part-0-introduction)
 * [Codepath ios Wiki](https://github.com/codepath/ios_guides)
-
+* [Material Design Tutorial Playlist](https://www.youtube.com/playlist?list=PLonJJ3BVjZW6CtAMbJz1XD8ELUs1KXaTD)
 ## Some Awesome Libraries 
+
 * [Animated Pull to Refresh](https://github.com/JackrabbitMobile/JackrabbitRefresh)
 * [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs/wiki/Detailed-Library-Integration-instructions): for HTTP mocks (used in tests).
 * [KIF](https://github.com/kif-framework/KIF): Integration/Automatization tests (BDD) .
