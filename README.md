@@ -24,14 +24,27 @@
 * [Android libs](http://androidlibs.org/)
 
 ## Tutorials
-* [OFFICIAL GOOLE COURSE - Performance](https://www.udacity.com/course/android-performance--ud825)
-* [OFFICIAL GOOGLE COURSE - Android ](https://www.udacity.com/course/android-performance--ud825)
 * [OFFICIAL GOOGLE - University](https://developers.google.com/university/courses/mobile)
 * [Google Developers Channel](https://www.youtube.com/user/GoogleDevelopers)
 * [Android Developers](https://www.youtube.com/user/androiddevelopers)
 * [Ray Wenderlich](http://www.raywenderlich.com/56107/make-first-android-app-part-1)
 * [Design for Pre lollipop -compat](http://android-developers.blogspot.com/2014/10/appcompat-v21-material-design-for-pre.html)
 * [Codepath Android Wiki](https://github.com/codepath/android_guides)
+
+## Courses
+* [New Circle Courses](https://newcircle.com/category/android)
+* [Udemy - Android Lollipop complete development](https://www.udemy.com/android-lollipop-complete-development-course/#/)
+* [OFFICIAL GOOLE COURSE - Performance](https://www.udacity.com/course/android-performance--ud825)
+* [OFFICIAL GOOGLE COURSE - Android ](https://www.udacity.com/course/android-performance--ud825)
+* [Coursera - Mobile Cloud Computing](https://www.coursera.org/specialization/mobilecloudcomputing2/36)
+
+## Training
+* [Mobile Web Dev Conference](http://mobilewebdevconference.com/)
+* [Google IO](https://events.google.com/io2015/#)
+* [AnDevCon](http://www.andevcon.com/)
+* [DroidCon](http://droidcon.com/)
+* [New Circle Android Bootmap](https://newcircle.com/class/android/android-bootcamp/denver-co/2015-06-22)
+
 
 ## Cool posts
 * [Material design checklist](http://android-developers.blogspot.com/2014/10/material-design-on-android-checklist.html)
