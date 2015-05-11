@@ -18,9 +18,9 @@
 * [Alfi](https://github.com/cesarferreira/alfi): library management
 
 ## Awesome Libs
-* https://github.com/wasabeef/awesome-android-ui
-* https://github.com/JStumpp/awesome-android
-* https://github.com/snowdream/awesome-android
+* [wasabeef awesome ui](https://github.com/wasabeef/awesome-android-ui)
+* [JStumpp awesome](https://github.com/JStumpp/awesome-android)
+* [snowdream awesome](https://github.com/snowdream/awesome-android)
 * [Android libs](http://androidlibs.org/)
 
 ## Tutorials
@@ -46,13 +46,13 @@
 * [DroidCon](http://droidcon.com/)
 * [New Circle Android Bootmap](https://newcircle.com/class/android/android-bootcamp/denver-co/2015-06-22)
 
-
 ## Cool posts
 * [Material design checklist](http://android-developers.blogspot.com/2014/10/material-design-on-android-checklist.html)
 * [Make Apps Beautiful](https://www.youtube.com/watch?v=CWIc6QE6iNc&list=UUVHFbqXqoYvEWM1Ddxl0QDg)
 * [Image load - Glide vs Picasso?](http://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en)
 * [Why use volley](https://developers.google.com/events/io/sessions/325304728): cool explanation volley (wow).
 * [Enable Lollipop colors/icon for chrome](http://updates.html5rocks.com/2014/11/Support-for-theme-color-in-Chrome-39-for-Android): you can add colors and icon to chrome bar to make you site beautiful and theme based on mobile.
+* [Clean Architecture](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
 
 ## Apps for developers
 * [Android - Material](https://play.google.com/store/apps/details?id=fr.hozakan.materialdesigncolorpalette)
@@ -78,9 +78,6 @@
 ## For tablets:
 1. `Nexus 7 2013` because of the size and (Official ROMs)[https://developers.google.com/android/nexus/images].
 
-
-## Cool Articles 
-1. [Clean Architecture](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
 
 #iOS 
 
