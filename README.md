@@ -17,11 +17,12 @@
 * [Device sizes](http://viewportsizes.com/)
 * [Alfi](https://github.com/cesarferreira/alfi): library management
 
-## Awesome Libs
+## Awesomes
+* [Android libs](http://androidlibs.org/)
+* [Android Arsenal](android-arsenal.com)
+* [snowdream awesome](https://github.com/snowdream/awesome-android)
 * [wasabeef awesome ui](https://github.com/wasabeef/awesome-android-ui)
 * [JStumpp awesome](https://github.com/JStumpp/awesome-android)
-* [snowdream awesome](https://github.com/snowdream/awesome-android)
-* [Android libs](http://androidlibs.org/)
 
 ## Tutorials
 * [OFFICIAL GOOGLE - University](https://developers.google.com/university/courses/mobile)
