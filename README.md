@@ -9,6 +9,10 @@
 * title: `+ Category name`
 * comment:`[name](link)` 
 
+# General 
+
+* [Network Bands for each country](http://www.gsmarena.com/network-bands.php3): shows which band is available on each country.
+
 # Android
 
 ## Tools
