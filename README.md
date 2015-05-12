@@ -36,6 +36,7 @@
 * [Design for Pre lollipop -compat](http://android-developers.blogspot.com/2014/10/appcompat-v21-material-design-for-pre.html)
 * [Codepath Android Wiki](https://github.com/codepath/android_guides)
 * [Install Google Apps into Genymotion Emulator](https://gist.github.com/wbroek/9321145)
+* [CodePath - Lollipop Animations](https://guides.codepath.com/android/Circular-Reveal-Animation)
 
 ## Courses
 * [New Circle Courses](https://newcircle.com/category/android)
