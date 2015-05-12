@@ -46,10 +46,11 @@
 
 ## Training
 * [Mobile Web Dev Conference](http://mobilewebdevconference.com/)
-* [Google IO](https://events.google.com/io2015/#)
-* [AnDevCon](http://www.andevcon.com/)
-* [DroidCon](http://droidcon.com/)
+* [Google IO Conference](https://events.google.com/io2015/#)
+* [AnDevCon Conference](http://www.andevcon.com/)
+* [DroidCon Conference](http://droidcon.com/)
 * [New Circle Android Bootmap](https://newcircle.com/class/android/android-bootcamp/denver-co/2015-06-22)
+* [Devoxx Conference](http://www.devoxx.com)
 
 ## Cool posts
 * [Material design checklist](http://android-developers.blogspot.com/2014/10/material-design-on-android-checklist.html)
