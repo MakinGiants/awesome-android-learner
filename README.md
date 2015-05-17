@@ -53,6 +53,9 @@
 * [New Circle Android Bootmap](https://newcircle.com/class/android/android-bootcamp/denver-co/2015-06-22)
 * [Devoxx Conference](http://www.devoxx.com)
 
+## Books
+* [The big nerd ranch guide](https://www.bignerdranch.com/we-write/android-programming/)
+
 ## Cool posts
 * [Material design checklist](http://android-developers.blogspot.com/2014/10/material-design-on-android-checklist.html)
 * [Make Apps Beautiful](https://www.youtube.com/watch?v=CWIc6QE6iNc&list=UUVHFbqXqoYvEWM1Ddxl0QDg)
