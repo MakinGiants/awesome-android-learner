@@ -18,6 +18,7 @@
 ## Tools
 * [Android Design Tips](http://www.androiddesign.tips/): Assets helper
 * [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/): Assets helper
+* [Material Palette](http://www.materialpalette.com/): helps to define colors on material design interfaces.
 * [Device sizes](http://viewportsizes.com/)
 * [Alfi](https://github.com/cesarferreira/alfi): library management
 
