@@ -39,6 +39,8 @@
 * [Install Google Apps into Genymotion Emulator](https://gist.github.com/wbroek/9321145)
 * [CodePath - Lollipop Animations](https://guides.codepath.com/android/Circular-Reveal-Animation)
 * [Materialize your app - Antonio Leiva](http://antonioleiva.com/materialize-app/)
+* [Material shared elements AppCompat - Antonio Leiva](http://antonioleiva.com/material-design-everywhere/)
+
 
 ## Courses
 * [New Circle Courses](https://newcircle.com/category/android)
