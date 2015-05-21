@@ -77,7 +77,8 @@
 ## OpenSource Apps
 * [Google IO 2014 compat example](https://github.com/rahulparsani/google-io-2014-compat)
 * [Open libra - Material Design Showcase](https://github.com/saulmm/OpenLibra-Material)
-* [WallSplash](https://github.com/mikepenz/wallsplash-android)
+* [WallSplash - Material Design Showcase](https://github.com/mikepenz/wallsplash-android)
+* [Frisbee - Material Design Showcase](https://github.com/gdg-x/frisbee)
 
 ## Tips
 * [Wireless debug](http://developer.android.com/tools/help/adb.html)
