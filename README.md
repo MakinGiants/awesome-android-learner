@@ -28,6 +28,7 @@
 * [snowdream awesome](https://github.com/snowdream/awesome-android)
 * [wasabeef awesome ui](https://github.com/wasabeef/awesome-android-ui)
 * [JStumpp awesome](https://github.com/JStumpp/awesome-android)
+* [Codepath - Must have libraries](https://guides.codepath.com/android/Must-Have-Libraries)
 
 ## Tutorials
 * [OFFICIAL GOOGLE - University](https://developers.google.com/university/courses/mobile)
