@@ -80,6 +80,7 @@
 * [Open libra - Material Design Showcase](https://github.com/saulmm/OpenLibra-Material)
 * [WallSplash - Material Design Showcase](https://github.com/mikepenz/wallsplash-android)
 * [Frisbee - Material Design Showcase](https://github.com/gdg-x/frisbee)
+* [Material Animation Samples](https://github.com/tarek360/Material-Animation-Samples)
 
 ## Tips
 * [Wireless debug](http://developer.android.com/tools/help/adb.html)
