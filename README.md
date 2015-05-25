@@ -42,7 +42,6 @@
 * [Materialize your app - Antonio Leiva](http://antonioleiva.com/materialize-app/)
 * [Material shared elements AppCompat - Antonio Leiva](http://antonioleiva.com/material-design-everywhere/)
 
-
 ## Courses
 * [New Circle Courses](https://newcircle.com/category/android)
 * [Udemy - Android Lollipop complete development](https://www.udemy.com/android-lollipop-complete-development-course/#/)
@@ -74,6 +73,7 @@
 * [Android - Material](https://play.google.com/store/apps/details?id=fr.hozakan.materialdesigncolorpalette)
 * [Android - Clean Status Bar](https://play.google.com/store/apps/details?id=com.emmaguy.cleanstatusbar) that helps with this.
 * [Mac - Android Tool](https://github.com/mortenjust/androidtool-mac): take easy screenshots
+* [Release android library plugin for bintray](https://github.com/ArthurHub/release-android-library)
 
 ## OpenSource Apps
 * [Google IO 2014 compat example](https://github.com/rahulparsani/google-io-2014-compat)
