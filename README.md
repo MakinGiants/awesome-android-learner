@@ -51,6 +51,7 @@
 * [Devoxx Conference](http://www.devoxx.com)
 * [New Circle Android Bootmap](https://newcircle.com/class/android/android-bootcamp/denver-co/2015-06-22)
 * [BigNerdRanch Bootcamp](https://training.bignerdranch.com/classes/android-bootcamp)
+* [NYC DroidCon 2014 Videos](http://nyc.droidcon.com/2014/dcnyc/28/)
 
 ## Books
 * [The big nerd ranch guide](https://www.bignerdranch.com/we-write/android-programming/)
