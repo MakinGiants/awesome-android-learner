@@ -16,31 +16,25 @@
 # Android
 
 ## Tools
-* [Android Design Tips](http://www.androiddesign.tips/): Assets helper
-* [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/): Assets helper
+* [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/): Assets management.
 * [Material Palette](http://www.materialpalette.com/): helps to define colors on material design interfaces.
-* [Device sizes](http://viewportsizes.com/)
-* [Alfi](https://github.com/cesarferreira/alfi): library management
+* [Device sizes](http://viewportsizes.com/): check screen size for each device.
+* [Alfi](https://github.com/cesarferreira/alfi): Dependencies version with terminal.
 
-## Awesomes
+## Awesomes (categorized list of awesome links)
 * [Android libs](http://androidlibs.org/)
 * [Android Arsenal](android-arsenal.com)
-* [snowdream awesome](https://github.com/snowdream/awesome-android)
-* [wasabeef awesome ui](https://github.com/wasabeef/awesome-android-ui)
-* [JStumpp awesome](https://github.com/JStumpp/awesome-android)
+* [Github - snowdream awesome](https://github.com/snowdream/awesome-android)
+* [Github - wasabeef awesome ui](https://github.com/wasabeef/awesome-android-ui)
+* [Github - JStumpp awesome](https://github.com/JStumpp/awesome-android)
 * [Codepath - Must have libraries](https://guides.codepath.com/android/Must-Have-Libraries)
 
 ## Tutorials
-* [OFFICIAL GOOGLE - University](https://developers.google.com/university/courses/mobile)
-* [Google Developers Channel](https://www.youtube.com/user/GoogleDevelopers)
-* [Android Developers](https://www.youtube.com/user/androiddevelopers)
-* [Ray Wenderlich](http://www.raywenderlich.com/56107/make-first-android-app-part-1)
-* [Design for Pre lollipop -compat](http://android-developers.blogspot.com/2014/10/appcompat-v21-material-design-for-pre.html)
+* [OFFICIAL GOOGLE - University](https://developers.google.com/university/courses/mobile): full android course.
+* [Google Developers Channel](https://www.youtube.com/user/GoogleDevelopers): list of videos from google.
+* [Android Developers](https://www.youtube.com/user/androiddevelopers): 
+* [Ray Wenderlich](http://www.raywenderlich.com/56107/make-first-android-app-part-1): they do android tutorials too :O
 * [Codepath Android Wiki](https://github.com/codepath/android_guides)
-* [Install Google Apps into Genymotion Emulator](https://gist.github.com/wbroek/9321145)
-* [CodePath - Lollipop Animations](https://guides.codepath.com/android/Circular-Reveal-Animation)
-* [Materialize your app - Antonio Leiva](http://antonioleiva.com/materialize-app/)
-* [Material shared elements AppCompat - Antonio Leiva](http://antonioleiva.com/material-design-everywhere/)
 
 ## Courses
 * [New Circle Courses](https://newcircle.com/category/android)
@@ -62,12 +56,17 @@
 * [The big nerd ranch guide](https://www.bignerdranch.com/we-write/android-programming/)
 
 ## Cool posts
+* [Install Google Apps into Genymotion Emulator](https://gist.github.com/wbroek/9321145)
+* [Design for Pre lollipop -compat](http://android-developers.blogspot.com/2014/10/appcompat-v21-material-design-for-pre.html)
 * [Material design checklist](http://android-developers.blogspot.com/2014/10/material-design-on-android-checklist.html)
 * [Make Apps Beautiful](https://www.youtube.com/watch?v=CWIc6QE6iNc&list=UUVHFbqXqoYvEWM1Ddxl0QDg)
 * [Image load - Glide vs Picasso?](http://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en)
 * [Why use volley](https://developers.google.com/events/io/sessions/325304728): cool explanation volley (wow).
 * [Enable Lollipop colors/icon for chrome](http://updates.html5rocks.com/2014/11/Support-for-theme-color-in-Chrome-39-for-Android): you can add colors and icon to chrome bar to make you site beautiful and theme based on mobile.
 * [Clean Architecture](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
+* [CodePath - Lollipop Animations](https://guides.codepath.com/android/Circular-Reveal-Animation)
+* [Materialize your app - Antonio Leiva](http://antonioleiva.com/materialize-app/)
+* [Material shared elements AppCompat - Antonio Leiva](http://antonioleiva.com/material-design-everywhere/)
 
 ## Apps for developers
 * [Android - Material](https://play.google.com/store/apps/details?id=fr.hozakan.materialdesigncolorpalette)
