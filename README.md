@@ -18,6 +18,7 @@
 ## Tools
 * [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/): Assets management.
 * [Material Palette](http://www.materialpalette.com/): helps to define colors on material design interfaces.
+* [Material Design Icons](http://materialdesignicons.com/): list of cool icons.
 * [Device sizes](http://viewportsizes.com/): check screen size for each device.
 * [Alfi](https://github.com/cesarferreira/alfi): Dependencies version with terminal.
 
