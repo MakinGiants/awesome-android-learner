@@ -58,6 +58,7 @@
 
 ## Books
 * [The big nerd ranch guide](https://www.bignerdranch.com/we-write/android-programming/)
+* [JavaRX Essentials](http://www.amazon.com/gp/product/1784399108)
 
 ## Cool posts
 * [Install Google Apps into Genymotion Emulator](https://gist.github.com/wbroek/9321145)
