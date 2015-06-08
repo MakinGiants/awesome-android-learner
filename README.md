@@ -72,6 +72,8 @@
 * [CodePath - Lollipop Animations](https://guides.codepath.com/android/Circular-Reveal-Animation)
 * [Materialize your app - Antonio Leiva](http://antonioleiva.com/materialize-app/)
 * [Material shared elements AppCompat - Antonio Leiva](http://antonioleiva.com/material-design-everywhere/)
+* [Activity launch modes](http://inthecheesefactory.com/blog/understand-android-activity-launchmode/en)
+
 
 ## Apps for developers
 * [Android - Material](https://play.google.com/store/apps/details?id=fr.hozakan.materialdesigncolorpalette)
