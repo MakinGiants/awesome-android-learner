@@ -59,6 +59,7 @@
 ## Books
 * [The big nerd ranch guide](https://www.bignerdranch.com/we-write/android-programming/)
 * [JavaRX Essentials](http://www.amazon.com/gp/product/1784399108)
+* [Async Android](http://www.amazon.com/Asynchronous-Android-Steve-Liles/dp/1783286873/ref=sr_1_15%7D)
 
 ## Cool posts
 * [Install Google Apps into Genymotion Emulator](https://gist.github.com/wbroek/9321145)
