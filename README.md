@@ -6,13 +6,13 @@
 1. Edit your README.md file adding the new item in the category (create one if don´t fit) with format:
 * `[name](link)`: `description`.
 1. Pull request with format:
-* title: `:<type>: Category name` Commit comments are composed by: `type` `<empty_space>` `message`.
+* title: `:<type>: [name](link) --> <title>` Commit comments are composed by: `type` `<empty_space>` `message`.
 
 Types:
 - :muscle: `muscle` : UPDATE
 - :neckbeard: `neckbeard` : ADD 
 - :shipit: `shipit` : REMOVE
-- :clap:: `clap`: FIX
+- :clap:: `clap` : FIX
 - :umbrella: `umbrella` : CLEAN
 
 * comment:`[name](link)` 
