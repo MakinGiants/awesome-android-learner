@@ -6,7 +6,15 @@
 1. Edit your README.md file adding the new item in the category (create one if don´t fit) with format:
 * `[name](link)`: `description`.
 1. Pull request with format:
-* title: `+ Category name`
+* title: `:<type>: Category name` Commit comments are composed by: `type` `<empty_space>` `message`.
+
+Types:
+- :muscle: `muscle` : UPDATE
+- :neckbeard: `neckbeard` : ADD 
+- :shipit: `shipit` : REMOVE
+- :clap:: `clap`: FIX
+- :umbrella: `umbrella` : CLEAN
+
 * comment:`[name](link)` 
 
 # General 
@@ -55,6 +63,7 @@
 * [New Circle Android Bootmap](https://newcircle.com/class/android/android-bootcamp/denver-co/2015-06-22)
 * [BigNerdRanch Bootcamp](https://training.bignerdranch.com/classes/android-bootcamp)
 * [NYC DroidCon 2014 Videos](http://nyc.droidcon.com/2014/dcnyc/28/)
+* [Material Design Colors Explanation](https://www.youtube.com/watch?v=xYkz0Ueg0L4)
 
 ## Books
 * [The big nerd ranch guide](https://www.bignerdranch.com/we-write/android-programming/)
