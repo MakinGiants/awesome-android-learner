@@ -25,6 +25,7 @@ Types:
 
 ## Tools
 * [Shrink images](http://optimizilla.com/): Make your assets smaller.
+* [Density Converter](http://density.brdrck.me/): helps to see values for each density.
 * [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/): Assets management.
 * [Material Palette](http://www.materialpalette.com/): helps to define colors on material design interfaces.
 * [Material Design Icons](http://materialdesignicons.com/): list of cool icons.
