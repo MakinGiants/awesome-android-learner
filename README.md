@@ -24,6 +24,7 @@ Types:
 # Android
 
 ## Tools
+* [Shrink images](http://optimizilla.com/): Make your assets smaller.
 * [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/): Assets management.
 * [Material Palette](http://www.materialpalette.com/): helps to define colors on material design interfaces.
 * [Material Design Icons](http://materialdesignicons.com/): list of cool icons.
