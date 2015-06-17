@@ -66,6 +66,7 @@ Types:
 * [BigNerdRanch Bootcamp](https://training.bignerdranch.com/classes/android-bootcamp)
 * [NYC DroidCon 2014 Videos](http://nyc.droidcon.com/2014/dcnyc/28/)
 * [Material Design Colors Explanation](https://www.youtube.com/watch?v=xYkz0Ueg0L4)
+* [Parleys](https://www.parleys.com/tutorial/gradle-android-rest-world): a lot of android conf videos, this one is from the gradle CEO and founder.
 
 ## Books
 * [The big nerd ranch guide](https://www.bignerdranch.com/we-write/android-programming/)
