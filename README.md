@@ -33,6 +33,7 @@ Types:
 * [Alfi](https://github.com/cesarferreira/alfi): Dependencies version with terminal.
 
 ## Awesomes (categorized list of awesome links)
+* [android-blogs](https://github.com/vbauer/android-blogs) - List with blogs about Android.
 * [Android libs](http://androidlibs.org/)
 * [Android Arsenal](android-arsenal.com)
 * [Github - snowdream awesome](https://github.com/snowdream/awesome-android)
