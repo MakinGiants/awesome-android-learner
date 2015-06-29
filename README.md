@@ -89,6 +89,8 @@ Types:
 * [Material shared elements AppCompat - Antonio Leiva](http://antonioleiva.com/material-design-everywhere/)
 * [Activity launch modes](http://inthecheesefactory.com/blog/understand-android-activity-launchmode/en)
 * [AutocompleteTextView examples (including address autocomplete)](http://android.foxykeep.com/dev/how-to-add-autocompletion-to-an-edittext)
+* [Elminating code overhead - Square 2015](https://speakerdeck.com/jakewharton/eliminating-code-overhead-square-hq-2015)
+
 
 ## Apps for developers
 * [Android - Material](https://play.google.com/store/apps/details?id=fr.hozakan.materialdesigncolorpalette)
