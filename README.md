@@ -132,10 +132,11 @@ Types:
 * https://github.com/matteocrippa/awesome-swift
 * https://github.com/vsouza/awesome-ios
 
+## Conferences 
+* [Pragma Conference](http://www.pragmaconference.com/)
 
 ## Tips
 * [Screen mirror iOS](http://pro.itools.cn/airplayer): wireless.
-
 
 ## Versions Stats
 1. [iOS](https://developer.apple.com/support/appstore/)
