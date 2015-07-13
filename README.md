@@ -91,6 +91,7 @@ Types:
 * [AutocompleteTextView examples (including address autocomplete)](http://android.foxykeep.com/dev/how-to-add-autocompletion-to-an-edittext)
 * [Elminating code overhead - Square 2015](https://speakerdeck.com/jakewharton/eliminating-code-overhead-square-hq-2015)
 * [Espresso 2.0 presentation](https://docs.google.com/presentation/d/1EtFKPluGiuxZcr4W_cAziEY_--wbY_1otw44XEBv7JA/edit#slide=id.g98a986571_0_184)
+* [6 Things I wish I knew before I wrote my first app](http://www.philosophicalhacker.com/2015/07/09/6-things-i-wish-i-knew-before-i-wrote-my-first-android-app/?utm_source=Android+Weekly&utm_campaign=5303dcddb7-Android_Weekly_161&utm_medium=email&utm_term=0_4eb677ad19-5303dcddb7-337918009)
 
 ## Apps for developers
 * [Android - Material](https://play.google.com/store/apps/details?id=fr.hozakan.materialdesigncolorpalette)
