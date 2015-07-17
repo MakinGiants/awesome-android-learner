@@ -9,11 +9,11 @@
 * title: `:<type>: [name](link) --> <title>` Commit comments are composed by: `type` `<empty_space>` `message`.
 
 Types:
-- :muscle: `muscle` : UPDATE
-- :neckbeard: `neckbeard` : ADD 
-- :shipit: `shipit` : REMOVE
-- :clap:: `clap` : FIX
-- :umbrella: `umbrella` : CLEAN
+- `=` : UPDATE
+- `+` : ADD 
+- `-` : REMOVE
+- `F` : FIX
+- `C` : CLEAN
 
 * comment:`[name](link)` 
 
@@ -24,7 +24,7 @@ Types:
 # Android
 
 ## Tools
-* [Shrink images](http://optimizilla.com/): Make your assets smaller.
+* [Image optim](https://imageoptim.com/es.html): Make your assets smaller. `#brew cask install imageoptim`
 * [Density Converter](http://density.brdrck.me/): helps to see values for each density.
 * [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/): Assets management.
 * [Material Palette](http://www.materialpalette.com/): helps to define colors on material design interfaces.
