@@ -75,6 +75,7 @@ Types:
 * [JavaRX Essentials](http://www.amazon.com/gp/product/1784399108)
 * [Async Android](http://www.amazon.com/Asynchronous-Android-Steve-Liles/dp/1783286873/ref=sr_1_15%7D)
 * [Retrofit love working with apis on android](https://leanpub.com/retrofit-love-working-with-apis-on-android)
+* [Hands on mobile app testing - a guide for mobile testers](http://www.informit.com/store/hands-on-mobile-app-testing-a-guide-for-mobile-testers-9780134191713)
 
 ## Cool posts
 * [Install Google Apps into Genymotion Emulator](https://gist.github.com/wbroek/9321145)
