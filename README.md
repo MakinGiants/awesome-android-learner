@@ -70,6 +70,7 @@ Types:
 * [Material Design Colors Explanation](https://www.youtube.com/watch?v=xYkz0Ueg0L4)
 * [Parleys](https://www.parleys.com/tutorial/gradle-android-rest-world): a lot of android conf videos, this one is from the gradle CEO and founder.
 * [Big Android BBQ](http://www.bigandroidbbq.com/)
+* [Testing 2015 - DroidconSpain](http://es.slideshare.net/DroidconSpain/droidcon-whats-new-in-android-testing-2015-jos-alcrreca)
 
 ## Books
 * [The big nerd ranch guide](https://www.bignerdranch.com/we-write/android-programming/)
