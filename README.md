@@ -115,7 +115,10 @@ Types:
 * [Wireless debug](http://developer.android.com/tools/help/adb.html)
 * [How to take screenshot](http://blog.shvetsov.com/2013/02/grab-android-screenshot-to-computer-via.html)
 * [record screen](http://www.cnet.com/how-to/how-to-record-your-screen-on-android-4-4-kitkat/)
-* Android: [chrome receiver](https://chrome.google.com/webstore/detail/allcast-receiver) [sender](https://play.google.com/store/apps/details?id=com.koushikdutta.mirror)
+* Android cast screen: 
+  - [chrome receiver](https://chrome.google.com/webstore/detail/allcast-receiver)    
+  - [sender](https://play.google.com/store/apps/details?id=com.koushikdutta.mirror)
+* [Bluestacks](bluestacks.com): android on desktop. parse, google services (Already installed) and fabric works on it.
 
 ## Device OS Versions Stats
 1. [Google Play](https://developer.android.com/about/dashboards/index.html)
