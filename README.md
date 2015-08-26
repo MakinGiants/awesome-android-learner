@@ -1,22 +1,6 @@
 [Awesome Mobile](http://danielgomezrico.github.io/Awesome-Mobile)
 ==================
 
-# How To Contribute
-1. Fork this repo.
-1. Edit your README.md file adding the new item in the category (create one if don´t fit) with format:
-* `[name](link)`: `description`.
-1. Pull request with format:
-* title: `:<type>: [name](link) --> <title>` Commit comments are composed by: `type` `<empty_space>` `message`.
-
-Types:
-- `=` : UPDATE
-- `+` : ADD 
-- `-` : REMOVE
-- `F` : FIX
-- `C` : CLEAN
-
-* comment:`[name](link)` 
-
 # General 
 
 * [Network Bands for each country](http://www.gsmarena.com/network-bands.php3): shows which band is available on each country.
@@ -195,3 +179,19 @@ From it you can install:
 * [CocoaPods GUI](https://github.com/kattrali/cocoapods-xcode-plugin)
 * [XToDo](https://github.com/trawor/XToDo): TODO and FIX list helper.
 * [SuggestedColors](https://github.com/jwaitzel/SuggestedColors/): it helps with app colors in storyboard, you define the app colors inside a plist and then you can see them by name on storyboard color picker.
+
+# How To Contribute
+1. Fork this repo.
+1. Edit your README.md file adding the new item in the category (create one if don´t fit) with format:
+* `[name](link)`: `description`.
+1. Pull request with format:
+* title: `:<type>: [name](link) --> <title>` Commit comments are composed by: `type` `<empty_space>` `message`.
+
+Types:
+- `=` : UPDATE
+- `+` : ADD 
+- `-` : REMOVE
+- `F` : FIX
+- `C` : CLEAN
+
+* comment:`[name](link)` 
