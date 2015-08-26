@@ -151,6 +151,9 @@ Types:
 1. [iOS](https://developer.apple.com/support/appstore/)
 1. [Wikipedia devices and versions](http://en.wikipedia.org/wiki/List_of_iOS_devices)
 
+## Cool Posts
+* [Swift guard statement](http://ericcerney.com/swift-guard-statement/): shows how to use guard in a cool way to have a cleaner code than if else.
+
 ## Tutorials
 * [Swift features vs Obj-c](http://b2cloud.com.au/tutorial/convenient-swift-features-vs-obj-c/)
 * [Route 85 - Google developers teach iOS](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKGQekfmV0Qk52qLG5LU2jO)
@@ -163,8 +166,8 @@ Types:
 * [Autolayout/Constraints 1](http://www.raywenderlich.com/94563/video-tutorial-intro-auto-layout-part-0-introduction)
 * [Codepath ios Wiki](https://github.com/codepath/ios_guides)
 * [Material Design Tutorial Playlist](https://www.youtube.com/playlist?list=PLonJJ3BVjZW6CtAMbJz1XD8ELUs1KXaTD)
-## Some Awesome Libraries 
 
+## Some Awesome Libraries 
 * [Animated Pull to Refresh](https://github.com/JackrabbitMobile/JackrabbitRefresh)
 * [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs/wiki/Detailed-Library-Integration-instructions): for HTTP mocks (used in tests).
 * [KIF](https://github.com/kif-framework/KIF): Integration/Automatization tests (BDD) .
