@@ -1,6 +1,8 @@
 [Awesome Mobile](http://danielgomezrico.github.io/Awesome-Mobile)
 ==================
 
+Another Awesome for those who are searching for a study "guide" for mobile.
+
 # General 
 
 * [Network Bands for each country](http://www.gsmarena.com/network-bands.php3): shows which band is available on each country.
