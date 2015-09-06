@@ -1,7 +1,8 @@
-[Awesome Mobile](http://danielgomezrico.github.io/Awesome-Mobile)
+[Awesome Mobile Dev](http://makingiants.com/blog/awesome_mobile/)
 ==================
 
-Another Awesome for those who are searching for a study "guide" for mobile.
+Another Awesome for those who are searching for a "study guide" for mobile development.
+You can find interesting posts, tools, plugins, open source apps, everything that may help to develop more and better mobile software.
 
 # General 
 
