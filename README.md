@@ -87,6 +87,8 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Espresso 2.0 presentation](https://docs.google.com/presentation/d/1EtFKPluGiuxZcr4W_cAziEY_--wbY_1otw44XEBv7JA/edit#slide=id.g98a986571_0_184)
 * [6 Things I wish I knew before I wrote my first app](http://www.philosophicalhacker.com/2015/07/09/6-things-i-wish-i-knew-before-i-wrote-my-first-android-app/?utm_source=Android+Weekly&utm_campaign=5303dcddb7-Android_Weekly_161&utm_medium=email&utm_term=0_4eb677ad19-5303dcddb7-337918009)
 * [Android performance - Omertsimsek](http://www.slideshare.net/omertsimsek/andromance-android-performance-devfest-ankara-2013?qid=7c54c68a-2d60-44ce-b4c8-d5bff3477727&v=qf1&b&from_search=8)
+* [Espresso tests "architecture"](http://room-15.github.io/blog/2015/03/19/adventures-in-espresso-p2/): give ideas about how to write tests in a clean and structured way (tests are code at the end... someone will maintain them).
+
 
 ## Apps for developers
 * [Android - Material](https://play.google.com/store/apps/details?id=fr.hozakan.materialdesigncolorpalette)
