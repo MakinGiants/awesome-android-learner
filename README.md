@@ -23,13 +23,13 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Alfi](https://github.com/cesarferreira/alfi): Dependencies version with terminal.
 
 ## Awesomes (categorized list of awesome links)
-* [android-blogs](https://github.com/vbauer/android-blogs) - List with blogs about Android.
-* [Android libs](http://androidlibs.org/)
-* [Android Arsenal](android-arsenal.com)
-* [Github - snowdream awesome](https://github.com/snowdream/awesome-android)
-* [Github - wasabeef awesome ui](https://github.com/wasabeef/awesome-android-ui)
-* [Github - JStumpp awesome](https://github.com/JStumpp/awesome-android)
-* [Codepath - Must have libraries](https://guides.codepath.com/android/Must-Have-Libraries)
+* [android-blogs](https://github.com/vbauer/android-blogs): List with blogs about Android.
+* [Android libs](http://androidlibs.org/): simple list of avialable libs.
+* [Android Arsenal](android-arsenal.com): list of available open libs with GUI, comments and so on.
+* [Github - snowdream awesome](https://github.com/snowdream/awesome-android): Categorized awesome.
+* [Github - wasabeef awesome ui](https://github.com/wasabeef/awesome-android-ui): Categorized awesome.
+* [Github - JStumpp awesome](https://github.com/JStumpp/awesome-android): Categorized awesome.
+* [Codepath - Must have libraries](https://guides.codepath.com/android/Must-Have-Libraries): Cool guide about base libs for every project.
 
 ## Tutorials
 * [OFFICIAL free google courses](http://android-developers.blogspot.com/2015/06/introducing-new-android-training.html)
