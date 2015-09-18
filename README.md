@@ -30,6 +30,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Github - wasabeef awesome ui](https://github.com/wasabeef/awesome-android-ui): Categorized awesome.
 * [Github - JStumpp awesome](https://github.com/JStumpp/awesome-android): Categorized awesome.
 * [Codepath - Must have libraries](https://guides.codepath.com/android/Must-Have-Libraries): Cool guide about base libs for every project.
+* [Android performance](https://github.com/Juude/awesome-android-performance/blob/master/README.md): help you to learn about how to add performance boost.
 
 ## Tutorials
 * [OFFICIAL free google courses](http://android-developers.blogspot.com/2015/06/introducing-new-android-training.html)
