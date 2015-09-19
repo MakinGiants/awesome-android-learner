@@ -170,22 +170,6 @@ From it you can install:
 * [Matteocrippa - Awesome swift](https://github.com/matteocrippa/awesome-swift): Cool awesome for iOS and swift.
 * [Vzousa - awesome-ios](https://github.com/vsouza/awesome-ios): Cool awesome for iOS and swift.
 
-# How To Contribute
-1. Fork this repo.
-1. Edit your README.md file adding the new item in the category (create one if don´t fit) with format:
-* `[name](link)`: `description`.
-1. Pull request with format:
-* title: `:<type>: [name](link) --> <title>` Commit comments are composed by: `type` `<empty_space>` `message`.
-
-Types:
-- `=` : UPDATE.
-- `+` : ADD.
-- `-` : REMOVE.
-- `F` : FIX.
-- `C` : CLEAN.
-
-* comment:`[name](link)`: description.
-
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
