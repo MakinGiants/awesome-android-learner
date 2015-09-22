@@ -71,6 +71,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Elminating code overhead - Square 2015](https://speakerdeck.com/jakewharton/eliminating-code-overhead-square-hq-2015): Android performance ideas to use from Jacke Warthon.
 * [News Testing 2015 - DroidconSpain](http://es.slideshare.net/DroidconSpain/dro* [Espresso 2.0 presentation](https://docs.google.com/presentation/d/1EtFKPluGiuxZcr4W_cAziEY_--wbY_1otw44XEBv7JA/edit#slide=id.g98a986571_0_184): Testing with espresso 2.0.idcon-whats-new-in-android-testing-2015-jos-alcrreca): how to test!.
 * [Espresso tests "architecture"](http://room-15.github.io/blog/2015/03/19/adventures-in-espresso-p2/): give ideas about how to write tests in a clean and structured way (tests are code at the end... someone will maintain them).
+* [Improving UX through performance](https://speakerdeck.com/rejasupotaro/improving-ux-through-performance): explain which libraries they use to get images, improve performance on networking and memory management :).
 
 ## OpenSource Apps
 * [Google IO 2014 compat example](https://github.com/rahulparsani/google-io-2014-compat): Google IO app from 2014!.
