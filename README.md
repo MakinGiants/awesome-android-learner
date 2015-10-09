@@ -14,7 +14,10 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 
 # Android
 
-### How many devices have which OS (dashboard/stats)
+## Tools 
+* [Android Demo mode](https://android.googlesource.com/platform/frameworks/base/+/android-6.0.0_r1/packages/SystemUI/docs/demo_mode.md): change status bar items for screenshots like wifi at full level.
+
+## How many devices have which OS (dashboard/stats)
 1. [Google Play](https://developer.android.com/about/dashboards/index.html): Google play dashboard.
 1. [AppBrain](http://www.appbrain.com/stats/top-android-sdk-versions): AppBrain dashboard.
 
@@ -101,13 +104,6 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Mac - Android Tool](https://github.com/mortenjust/androidtool-mac): easy take iOS and Android screenshots.
 * [Release android library plugin for bintray](https://github.com/ArthurHub/release-android-library): gradle plugin to release your libraries to bintray (and jcenter).
 * [Bluestacks](bluestacks.com): android on desktop. parse, google services (Already installed) and fabric works on it.
-
-### Cool development devices:
-1. `Nexus 6` because of resolution (xxxhdpi).
-1. `Samsung S5` becuase of popularity.
-1. `Nexus S` mini because of the size and android version (Official ROMs )[https://developers.google.com/android/nexus/images].
-1. `Moto g 2014` because of popularity.
-1. `Nexus 7 2013` because of the size and (Official ROMs)[https://developers.google.com/android/nexus/images].
 
 ## Awesomes (categorized list of awesome links)
 * [android-blogs](https://github.com/vbauer/android-blogs): List with blogs about Android.
