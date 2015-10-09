@@ -43,6 +43,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [AnDevCon Conference](http://www.andevcon.com/): AnDevCon.
 * [Mobile Web Dev Conference](http://mobilewebdevconference.com/): Mobile Web Dev (node js?).
 * [New Circle Android Bootmap](https://newcircle.com/class/android/android-bootcamp/denver-co/2015-06-22): new circle bootcamp.
+* [GDG DevFests](https://developers.google.com/events/devfest/)
 
 ## Books
 * [The big nerd ranch guide v1](https://www.bignerdranch.com/we-write/android-programming/): Cool guide to learn the basics of every spec on android.
