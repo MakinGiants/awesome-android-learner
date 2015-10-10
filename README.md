@@ -82,6 +82,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Open libra - Material Design Showcase](https://github.com/saulmm/OpenLibra-Material): Cool material design example.
 * [WallSplash - Material Design Showcase](https://github.com/mikepenz/wallsplash-android): wallpaper app but don´t have the last code. :(.
 * [Material Animation Samples](https://github.com/tarek360/Material-Animation-Samples): some material design examples.
+* [Sunshine](https://github.com/udacity/Sunshine-Version-2): app developed on the Udacity course [Developing Android Apps](https://www.udacity.com/course/developing-android-apps--ud853)
 
 ## Tips
 * [Wireless debug](http://developer.android.com/tools/help/adb.html): how to develop without connect your device through USB.
