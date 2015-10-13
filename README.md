@@ -14,6 +14,9 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 
 # Android
 
+## Style Guides
+* [Futurice - best practices](https://github.com/futurice/android-best-practices): Cool updated list of great practices to follow.
+
 ## Tools 
 * [Android Demo mode](https://android.googlesource.com/platform/frameworks/base/+/android-6.0.0_r1/packages/SystemUI/docs/demo_mode.md): change status bar items for screenshots like wifi at full level.
 
