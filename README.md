@@ -109,6 +109,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Mac - Android Tool](https://github.com/mortenjust/androidtool-mac): easy take iOS and Android screenshots.
 * [Release android library plugin for bintray](https://github.com/ArthurHub/release-android-library): gradle plugin to release your libraries to bintray (and jcenter).
 * [Bluestacks](bluestacks.com): android on desktop. parse, google services (Already installed) and fabric works on it.
+* [R.tools](https://github.com/andriydruk/R.tools): app that let you see and change device configurations.
 
 ## Awesomes (categorized list of awesome links)
 * [android-blogs](https://github.com/vbauer/android-blogs): List with blogs about Android.
