@@ -123,6 +123,9 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 
 #iOS 
 
+## Open Source Projects
+* [LeetCode Solutions](https://github.com/diwu/LeetCode-Solutions-in-Swift): list of cool swift examples.
+
 ## How many devices have which OS (dashboard/stats)
 1. [iOS](https://developer.apple.com/support/appstore/): Official apple stats.
 1. [Wikipedia devices and versions](http://en.wikipedia.org/wiki/List_of_iOS_devices): wikipedia stats.
