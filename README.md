@@ -19,6 +19,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 
 ## Tools 
 * [Android Demo mode](https://android.googlesource.com/platform/frameworks/base/+/android-6.0.0_r1/packages/SystemUI/docs/demo_mode.md): change status bar items for screenshots like wifi at full level.
+* [Vysor beta](https://chrome.google.com/webstore/detail/vysor-beta): Mirror (clickable) the device screen into chrome, helpful for meetings on hangout/hero or something.
 
 ## How many devices have which OS (dashboard/stats)
 1. [Google Play](https://developer.android.com/about/dashboards/index.html): Google play dashboard.
