@@ -21,6 +21,13 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Android Demo mode](https://android.googlesource.com/platform/frameworks/base/+/android-6.0.0_r1/packages/SystemUI/docs/demo_mode.md): change status bar items for screenshots like wifi at full level.
 * [Vysor beta](https://chrome.google.com/webstore/detail/vysor-beta/gidgenkbbabolejbgbpnhbimgjbffefm/related): Mirror (clickable) the device screen into chrome, helpful for meetings on hangout/hero or something.
 
+### Android studio plugins
+* [Adb-Idea](https://github.com/pbreault/adb-idea): Helps you to reset app data, uninstall app, and others from android studio and other
+* [Material design icon generator](https://github.com/konifar/android-material-design-icon-generator-plugin): helps you to import drawables for each size from the material icon source into android studio with defined size and color.
+* Android Parcelable code generator from [charmas guy](http://blog.charmas.pl): generate all the needed code for a class to be parcelable.
+* [Idea Multimarkdown](https://github.com/vsch/idea-multimarkdown): see md/markdown files beautiful, helpful for the project readme.
+* [QAPlug](http://qaplug.com/): integration with findbugs, PMD and checkstyle inside android studio.
+
 ## How many devices have which OS (dashboard/stats)
 1. [Google Play](https://developer.android.com/about/dashboards/index.html): Google play dashboard.
 1. [AppBrain](http://www.appbrain.com/stats/top-android-sdk-versions): AppBrain dashboard.
