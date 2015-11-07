@@ -157,18 +157,12 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Functional swift](https://www.youtube.com/watch?v=8eFexVRxM-k): youtube video to learn cool things about functional swift.
 
 ## Some Libraries 
-* [Animated Pull to Refresh](https://github.com/JackrabbitMobile/JackrabbitRefresh): cool pull to refresh.
 * [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs/wiki/Detailed-Library-Integration-instructions): mock/stub every url response to your http library for testing (dont need to add code to alamofire or afnetworking).
-* [KIF](https://github.com/kif-framework/KIF): Integration/Automatization tests (BDD).
 * [AFNetworking](afnetworking.com/): obj-c http client for requests.
 * [RBStoryboardLink](https://github.com/rob-brown/RBStoryboardLink): decompose into multiple storyboards the application and avoid merge problems.
 * [SwiftyJSON](https://github.com/lingoer/SwiftyJSON): json parser. (default JSON parser is ultra hiper verbose).
 * [MBProgressHUD](https://github.com/jdg/MBProgressHUD): used to show loading messages.
-* [BMYCircularProgressPullToRefresh](https://github.com/beamly/BMYCircularProgressPullToRefresh): pull to refresh lib.
-* For animations [POP](https://github.com/facebook/pop): animate async!.
-* For responsive GUI [Async Display Kit](http://asyncdisplaykit.org): help animate async with pop!.
 * [PonyDebugger](https://github.com/square/PonyDebugger): use web developer console to track HTTP requests.
-* [Nocila](https://github.com/luisobo/Nocilla): HTTP Stubs, looks easier than OHHttpStubs.
 
 ## Xcode Plugins
 
