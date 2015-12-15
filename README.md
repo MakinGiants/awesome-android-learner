@@ -132,6 +132,9 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 
 #iOS 
 
+## Tools
+* [iOS Console](http://lemonjar.com/iosconsole/): cool console outside of xcode to see logs:D. 
+
 ## Open Source Projects
 * [LeetCode Solutions](https://github.com/diwu/LeetCode-Solutions-in-Swift): list of cool swift examples.
 
