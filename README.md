@@ -8,7 +8,6 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 
 # General 
 * [Network Bands for each country](http://www.gsmarena.com/network-bands.php3): shows which band is available on each country.
-* [Network Bands for each country](http://www.gsmarena.com/network-bands.php3): shows which band is available on each country.
 
 ## Tools
 * [Adobe color](https://color.adobe.com): helps to define colors pallete for our apps. 
