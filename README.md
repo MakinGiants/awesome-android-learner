@@ -6,19 +6,19 @@
 Another Awesome for those who are searching for a "study guide" for mobile development.
 You can find interesting posts, tools, plugins, open source apps, everything that may help to develop more and better mobile software.
 
-# General 
+# General
 * [Network Bands for each country](http://www.gsmarena.com/network-bands.php3): shows which band is available on each country.
 * [Network Bands for each country](http://www.gsmarena.com/network-bands.php3): shows which band is available on each country.
 
 ## Tools
-* [Adobe color](https://color.adobe.com): helps to define colors pallete for our apps. 
+* [Adobe color](https://color.adobe.com): helps to define colors pallete for our apps.
 
 # Android
 
 ## Style Guides
 * [Futurice - best practices](https://github.com/futurice/android-best-practices): Cool updated list of great practices to follow.
 
-## Tools 
+## Tools
 * [Android Demo mode](https://android.googlesource.com/platform/frameworks/base/+/android-6.0.0_r1/packages/SystemUI/docs/demo_mode.md): change status bar items for screenshots like wifi at full level.
 * [Vysor beta](https://chrome.google.com/webstore/detail/vysor-beta/gidgenkbbabolejbgbpnhbimgjbffefm/related): Mirror (clickable) the device screen into chrome, helpful for meetings on hangout/hero or something.
 
@@ -85,7 +85,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [6 Things I wish I knew before I wrote my first app](http://www.philosophicalhacker.com/2015/07/09/6-things-i-wish-i-knew-before-i-wrote-my-first-android-app): base concepts to learn and avoid performance problems.
 * [Android performance - Omertsimsek](http://www.slideshare.net/omertsimsek/andromance-android-performance-devfest-ankara-2013?qid=7c54c68a-2d60-44ce-b4c8-d5bff3477727&v=qf1&b&from_search=8): because performance matterns there are cool slides about.
 * [Elminating code overhead - Square 2015](https://speakerdeck.com/jakewharton/eliminating-code-overhead-square-hq-2015): Android performance ideas to use from Jacke Warthon.
-* [News Testing 2015 - DroidconSpain](http://es.slideshare.net/DroidconSpain/dro* [Espresso 2.0 presentation](https://docs.google.com/presentation/d/1EtFKPluGiuxZcr4W_cAziEY_--wbY_1otw44XEBv7JA/edit#slide=id.g98a986571_0_184): Testing with espresso 2.0.idcon-whats-new-in-android-testing-2015-jos-alcrreca): how to test!.
+* [Espresso 2.0 presentation](https://docs.google.com/presentation/d/1EtFKPluGiuxZcr4W_cAziEY_--wbY_1otw44XEBv7JA/edit#slide=id.g98a986571_0_184): Testing with espresso 2.0.idcon-whats-new-in-android-testing-2015-jos-alcrreca): how to test!.
 * [Espresso tests "architecture"](http://room-15.github.io/blog/2015/03/19/adventures-in-espresso-p2/): give ideas about how to write tests in a clean and structured way (tests are code at the end... someone will maintain them).
 * [Improving UX through performance](https://speakerdeck.com/rejasupotaro/improving-ux-through-performance): explain which libraries they use to get images, improve performance on networking and memory management :).
 * [Level up your android build](https://www.parleys.com/tutorial/level-up-your-android-build): give great tips and tricks with gradle and everything releated builds.
@@ -108,9 +108,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Material Design Icons](http://materialdesignicons.com/): list of cool icons.
 * [Device sizes](http://viewportsizes.com/): check screen size for each device.
 * [Alfi](https://github.com/cesarferreira/alfi): Dependencies version with terminal.
-* Cast your android phone screen to computer: 
-  - [chrome receiver](https://chrome.google.com/webstore/detail/allcast-receiver): server.
-  - [sender](https://play.google.com/store/apps/details?id=com.koushikdutta.mirror): app that sends the screen.
+* [Vysor](https://chrome.google.com/webstore/detail/vysor-beta/gidgenkbbabolejbgbpnhbimgjbffefm): Cast the screen of any device to computer.
 
 #### Apps for developers
 * [Android - Material](https://play.google.com/store/apps/details?id=fr.hozakan.materialdesigncolorpalette): see the material palette on your device.
@@ -131,10 +129,10 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Codepath - Must have libraries](https://guides.codepath.com/android/Must-Have-Libraries): Cool guide about base libs for every project.
 * [Android performance](https://github.com/Juude/awesome-android-performance/blob/master/README.md): help you to learn about how to add performance boost.
 
-#iOS 
+#iOS
 
 ## Tools
-* [iOS Console](http://lemonjar.com/iosconsole/): cool console outside of xcode to see logs:D. 
+* [iOS Console](http://lemonjar.com/iosconsole/): cool console outside of xcode to see logs:D.
 
 ## Open Source Projects
 * [LeetCode Solutions](https://github.com/diwu/LeetCode-Solutions-in-Swift): list of cool swift examples.
@@ -143,7 +141,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 1. [iOS](https://developer.apple.com/support/appstore/): Official apple stats.
 1. [Wikipedia devices and versions](http://en.wikipedia.org/wiki/List_of_iOS_devices): wikipedia stats.
 
-## Conferences 
+## Conferences
 * [Pragma Conference](http://www.pragmaconference.com/): iOS & OS X Developers Conference.
 
 ## Tips
@@ -161,7 +159,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Route 85 - Google developers teach iOS](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKGQekfmV0Qk52qLG5LU2jO): learn from google guys cool iOS tips.
 * [Functional swift](https://www.youtube.com/watch?v=8eFexVRxM-k): youtube video to learn cool things about functional swift.
 
-## Some Libraries 
+## Some Libraries
 * [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs/wiki/Detailed-Library-Integration-instructions): mock/stub every url response to your http library for testing (dont need to add code to alamofire or afnetworking).
 * [AFNetworking](afnetworking.com/): obj-c http client for requests.
 * [RBStoryboardLink](https://github.com/rob-brown/RBStoryboardLink): decompose into multiple storyboards the application and avoid merge problems.
@@ -189,4 +187,3 @@ From it you can install:
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Daniel Gomez](http://github.com/danielgomezrico) has waived all copyright and related or neighboring rights to this work.
-
