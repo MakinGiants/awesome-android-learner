@@ -54,7 +54,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [DroidCon Conference](http://droidcon.com/): DroidCon.
 * [NYC DroidCon 2014 Videos](http://nyc.droidcon.com/2014/): NYC DroidCon 2014.
 * [NYC DroidCon 2015 Videos](http://nyc.droidcon.com/2015/): NYC DroidCon 2015.
-* [Devoxx Conference](http://www.devoxx.com): Devoxx.
+* [Devoxx Conference](https://www.devoxx.com/): Devoxx.
 * [BigNerdRanch Bootcamp](https://training.bignerdranch.com/classes/android-fundamentals): BigNerdRach bootcamp.
 * [AnDevCon Conference](http://www.andevcon.com/): AnDevCon.
 * [Mobile Web Dev Conference](http://mobilewebdevconference.com/): Mobile Web Dev (node js?).
@@ -152,7 +152,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [NSScreencast](http://nsscreencast.com/episodes): cool list of videos to learn iOS development.
 * [Raywenderlich](http://www.raywenderlich.com): BEST resource to learn iOS.
 * [NSHipster](http://nshipster.com/): another cool list of videos from AFNetworking guys.
-* [Tutorials 1](http://swiftlang.eu/community/conversations/tutorials-and-resources)
+* [Tutorials 1](https://swiftlang.eu/community/conversations/tutorials-and-resources)
 * [Codepath ios Wiki](https://github.com/codepath/ios_guides): codepath guys have iOS guides too.
 
 ## Tutorials
