@@ -123,6 +123,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 ## Awesomes (categorized list of awesome links)
 * [android-blogs](https://github.com/vbauer/android-blogs): List with blogs about Android.
 * [Android libs](http://androidlibs.org/): simple list of avialable libs.
+* [Libtastic](http://www.libtastic.com/): Discover top Android libraries based on their popularity in high-ranking apps.
 * [Android Arsenal](android-arsenal.com): list of available open libs with GUI, comments and so on.
 * [Github - snowdream awesome](https://github.com/snowdream/awesome-android): Categorized awesome.
 * [Github - wasabeef awesome ui](https://github.com/wasabeef/awesome-android-ui): Categorized awesome.
