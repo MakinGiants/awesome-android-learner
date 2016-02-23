@@ -62,6 +62,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [GDG DevFests](https://developers.google.com/events/devfest/)
 
 ## Books
+* [Android-Development-Patterns-Professional-Developers](http://www.amazon.com/Android-Development-Patterns-Professional-Developers/dp/0133923681): list of patterns for android development.
 * [The big nerd ranch guide v1](https://www.bignerdranch.com/we-write/android-programming/): Cool guide to learn the basics of every spec on android.
 * [JavaRX Essentials](http://www.amazon.com/gp/product/1784399108): Cool book to learn the cool javaRX.
 * [Async Android](http://www.amazon.com/Asynchronous-Android-Steve-Liles/dp/1783286873/ref=sr_1_15%7D): Async usages for Android.
