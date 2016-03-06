@@ -54,7 +54,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [DroidCon Conference](http://droidcon.com/): DroidCon.
 * [NYC DroidCon 2014 Videos](http://nyc.droidcon.com/2014/): NYC DroidCon 2014.
 * [NYC DroidCon 2015 Videos](http://nyc.droidcon.com/2015/): NYC DroidCon 2015.
-* [Devoxx Conference](http://www.devoxx.com): Devoxx.
+* [Devoxx Conference](https://www.devoxx.com/): Devoxx.
 * [BigNerdRanch Bootcamp](https://training.bignerdranch.com/classes/android-fundamentals): BigNerdRach bootcamp.
 * [AnDevCon Conference](http://www.andevcon.com/): AnDevCon.
 * [Mobile Web Dev Conference](http://mobilewebdevconference.com/): Mobile Web Dev (node js?).
@@ -62,6 +62,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [GDG DevFests](https://developers.google.com/events/devfest/)
 
 ## Books
+* [Android-Development-Patterns-Professional-Developers](http://www.amazon.com/Android-Development-Patterns-Professional-Developers/dp/0133923681): list of patterns for android development.
 * [The big nerd ranch guide v1](https://www.bignerdranch.com/we-write/android-programming/): Cool guide to learn the basics of every spec on android.
 * [JavaRX Essentials](http://www.amazon.com/gp/product/1784399108): Cool book to learn the cool javaRX.
 * [Async Android](http://www.amazon.com/Asynchronous-Android-Steve-Liles/dp/1783286873/ref=sr_1_15%7D): Async usages for Android.
@@ -123,6 +124,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 ## Awesomes (categorized list of awesome links)
 * [android-blogs](https://github.com/vbauer/android-blogs): List with blogs about Android.
 * [Android libs](http://androidlibs.org/): simple list of avialable libs.
+* [Libtastic](http://www.libtastic.com/): Discover top Android libraries based on their popularity in high-ranking apps.
 * [Android Arsenal](android-arsenal.com): list of available open libs with GUI, comments and so on.
 * [Github - snowdream awesome](https://github.com/snowdream/awesome-android): Categorized awesome.
 * [Github - wasabeef awesome ui](https://github.com/wasabeef/awesome-android-ui): Categorized awesome.
@@ -152,7 +154,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [NSScreencast](http://nsscreencast.com/episodes): cool list of videos to learn iOS development.
 * [Raywenderlich](http://www.raywenderlich.com): BEST resource to learn iOS.
 * [NSHipster](http://nshipster.com/): another cool list of videos from AFNetworking guys.
-* [Tutorials 1](http://swiftlang.eu/community/conversations/tutorials-and-resources)
+* [Tutorials 1](https://swiftlang.eu/community/conversations/tutorials-and-resources)
 * [Codepath ios Wiki](https://github.com/codepath/ios_guides): codepath guys have iOS guides too.
 
 ## Tutorials
