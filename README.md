@@ -40,7 +40,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Free - OFFICIAL Google Analytics for Mobile apps - Google FREE](https://analyticsacademy.withgoogle.com/course04/): Google analytics academy.
 * [Free - Google Developers Channel](https://www.youtube.com/user/GoogleDevelopers): youtube list of videos from google.
 * [Free - Android Developers](https://www.youtube.com/user/androiddevelopers): youtube list of cool videos.
-* [Free - Ray Wenderlich](http://www.raywenderlich.com/56107/make-first-android-app-part-1): they do android tutorials too :O.
+* [Free - Ray Wenderlich](https://www.raywenderlich.com/56107/make-first-android-app-part-1): they do android tutorials too :O.
 * [Free - Codepath Android Wiki](https://github.com/codepath/android_guides): guides for android dev from codepath guys.
 * [Free - New Circle Courses](https://newcircle.com/category/android): New circle courses for android.
 * [Paid - Udemy - Android Lollipop complete development](https://www.udemy.com/android-marshmallow-java-app-development-course/): Tim Buchalka android course.
@@ -152,7 +152,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 
 ## Training
 * [NSScreencast](http://nsscreencast.com/episodes): cool list of videos to learn iOS development.
-* [Raywenderlich](http://www.raywenderlich.com): BEST resource to learn iOS.
+* [Raywenderlich](https://www.raywenderlich.com/): BEST resource to learn iOS.
 * [NSHipster](http://nshipster.com/): another cool list of videos from AFNetworking guys.
 * [Tutorials 1](https://swiftlang.eu/community/conversations/tutorials-and-resources)
 * [Codepath ios Wiki](https://github.com/codepath/ios_guides): codepath guys have iOS guides too.
