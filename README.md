@@ -91,6 +91,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Espresso tests "architecture"](http://room-15.github.io/blog/2015/03/19/adventures-in-espresso-p2/): give ideas about how to write tests in a clean and structured way (tests are code at the end... someone will maintain them).
 * [Improving UX through performance](https://speakerdeck.com/rejasupotaro/improving-ux-through-performance): explain which libraries they use to get images, improve performance on networking and memory management :).
 * [Level up your android build](https://www.parleys.com/tutorial/level-up-your-android-build): give great tips and tricks with gradle and everything releated builds.
+* [Task and document api](https://speakerdeck.com/mathieu_calba/task-and-document-api): explains how android manage activities and tasks.
 
 ## OpenSource Apps
 * [Google IO 2014 compat example](https://github.com/rahulparsani/google-io-2014-compat): Google IO app from 2014!.
