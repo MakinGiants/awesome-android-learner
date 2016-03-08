@@ -123,6 +123,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Pixocolor](https://play.google.com/store/apps/details?id=com.embermitre.pixolor.app): see any color pixel on your screen.
 
 ## Awesomes (categorized list of awesome links)
+* [Android community](https://github.com/tonilopezmr/android-community): list of videos.
 * [android-blogs](https://github.com/vbauer/android-blogs): List with blogs about Android.
 * [Android libs](http://androidlibs.org/): simple list of avialable libs.
 * [Libtastic](http://www.libtastic.com/): Discover top Android libraries based on their popularity in high-ranking apps.
