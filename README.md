@@ -13,6 +13,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 
 ## Tools
 * [Adobe color](https://color.adobe.com): helps to define colors pallete for our apps.
+* [Material Design Color Generator](http://mcg.mbitson.com/#/): let you create the full pallete from a single color in hexa, rgb, etc...
 
 # Android
 
