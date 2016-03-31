@@ -121,6 +121,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Bluestacks](bluestacks.com): android on desktop. parse, google services (Already installed) and fabric works on it.
 * [R.tools](https://github.com/andriydruk/R.tools): app that let you see and change device configurations.
 * [Pixocolor](https://play.google.com/store/apps/details?id=com.embermitre.pixolor.app): see any color pixel on your screen.
+* [Texpand](https://play.google.com/store/apps/details?id=com.isaiasmatewos.texpand): text shortcuts, helpful to add users and pwd or other text you write always into there.
 
 ## Awesomes (categorized list of awesome links)
 * [Android community](https://github.com/tonilopezmr/android-community): list of videos.
