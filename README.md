@@ -94,7 +94,8 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Task and document api](https://speakerdeck.com/mathieu_calba/task-and-document-api): explains how android manage activities and tasks.
 * [GCM to optimize battery](https://www.bignerdranch.com/blog/optimize-battery-life-with-androids-gcm-network-manager): clear explanation for GCM use to do requests and save battery.
 
-## OpenSource Apps
+## Open Source Apps
+* [DuckDuckGo](https://github.com/duckduckgo/android): The DuckDuckGo Android App.
 * [Google IO 2014 compat example](https://github.com/rahulparsani/google-io-2014-compat): Google IO app from 2014!.
 * [Open libra - Material Design Showcase](https://github.com/saulmm/OpenLibra-Material): Cool material design example.
 * [WallSplash - Material Design Showcase](https://github.com/mikepenz/wallsplash-android): wallpaper app but don´t have the last code. :(.
@@ -143,6 +144,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 
 ## Open Source Projects
 * [LeetCode Solutions](https://github.com/diwu/LeetCode-Solutions-in-Swift): list of cool swift examples.
+* [DuckDuckGo](https://github.com/duckduckgo/ios): The DuckDuckGo iOS app.
 
 ## How many devices have which OS (dashboard/stats)
 1. [iOS](https://developer.apple.com/support/app-store/): Official apple stats.
