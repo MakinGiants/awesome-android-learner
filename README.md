@@ -13,6 +13,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 
 ## Tools
 * [Adobe color](https://color.adobe.com): helps to define colors pallete for our apps.
+* [Material Design Color Generator](http://mcg.mbitson.com/#/): let you create the full pallete from a single color in hexa, rgb, etc...
 
 # Android
 
@@ -37,7 +38,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 ## Courses
 * [Free/paid - OFFICIAL GOOGLE - Udacity](https://www.udacity.com/google): Google android official courses and nanodegree.
 * [Free - OFFICIAL free google courses](http://android-developers.blogspot.com/2015/06/introducing-new-android-training.html): Base site for android training.
-* [Free - OFFICIAL Google Analytics for Mobile apps - Google FREE](https://analyticsacademy.withgoogle.com/course04/): Google analytics academy.
+* [Free - OFFICIAL Google Analytics for Mobile apps - Google FREE](https://analyticsacademy.withgoogle.com/course/4): Google analytics academy.
 * [Free - Google Developers Channel](https://www.youtube.com/user/GoogleDevelopers): youtube list of videos from google.
 * [Free - Android Developers](https://www.youtube.com/user/androiddevelopers): youtube list of cool videos.
 * [Free - Ray Wenderlich](https://www.raywenderlich.com/56107/make-first-android-app-part-1): they do android tutorials too :O.
@@ -128,7 +129,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 ## Awesomes (categorized list of awesome links)
 * [Android community](https://github.com/tonilopezmr/android-community): list of videos.
 * [android-blogs](https://github.com/vbauer/android-blogs): List with blogs about Android.
-* [Android libs](http://androidlibs.org/): simple list of avialable libs.
+* [Android libs](https://android-libs.com): simple list of avialable libs.
 * [Libtastic](http://www.libtastic.com/): Discover top Android libraries based on their popularity in high-ranking apps.
 * [Android Arsenal](android-arsenal.com): list of available open libs with GUI, comments and so on.
 * [Github - snowdream awesome](https://github.com/snowdream/awesome-android): Categorized awesome.
