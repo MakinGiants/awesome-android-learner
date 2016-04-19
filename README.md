@@ -183,7 +183,7 @@ A cool plugin manager is [Alcatraz](https://github.com/alcatraz/Alcatraz).
 From it you can install:
 
 * [Blacklight](https://github.com/limejelly/Backlight-for-XCode): highlight actual line.
-* [Fuzzy Autocomplete](https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin): improve XCode autocomplete!.
+* [Fuzzy Autocomplete](https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin): improve Xcode autocomplete!.
 * [XToDo](https://github.com/trawor/XToDo): TODO and FIX list helper.
 * [SuggestedColors](https://github.com/jwaitzel/SuggestedColors/): it helps with app colors in storyboard, define the app colors inside a plist and then  see them by name on storyboard color picker.
 
