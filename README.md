@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[Awesome Mobile Dev](http://makingiants.com/blog/awesome_mobile/)
+Awesome Mobile Dev
 ==================
 
 Another Awesome for those who are searching for a "study guide" for mobile development.
@@ -70,8 +70,8 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 ## Books
 * [Android-Development-Patterns-Professional-Developers](http://www.amazon.com/Android-Development-Patterns-Professional-Developers/dp/0133923681): list of patterns for android development.
 * [The big nerd ranch guide v1](https://www.bignerdranch.com/we-write/android-programming/): Cool guide to learn the basics of every spec on android.
-* [JavaRX Essentials](http://www.amazon.com/gp/product/1784399108): Cool book to learn the cool javaRX.
-* [Async Android](http://www.amazon.com/Asynchronous-Android-Steve-Liles/dp/1783286873/ref=sr_1_15%7D): Async usages for Android.
+* [JavaRX Essentials](http://www.amazon.com/RxJava-Essentials-Ivan-Morgillo/dp/1784399108): Cool book to learn the cool javaRX.
+* [Async Android](http://www.amazon.com/Asynchronous-Android-Steve-Liles/dp/1783286873): Async usages for Android.
 * [Retrofit love working with apis on android](https://leanpub.com/retrofit-love-working-with-apis-on-android): Learn all about Retrofit.
 
 ## Cool posts
@@ -124,7 +124,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Alfi](https://github.com/cesarferreira/alfi): Dependencies version with terminal.
 * [Vysor](https://chrome.google.com/webstore/detail/vysor-beta/gidgenkbbabolejbgbpnhbimgjbffefm): Cast the screen of any device to computer.
 
-#### Apps for developers
+#### Apps for developersma
 * [Android - Material](https://play.google.com/store/apps/details?id=fr.hozakan.materialdesigncolorpalette): see the material palette on your device.
 * [Android - Clean Status Bar](https://play.google.com/store/apps/details?id=com.emmaguy.cleanstatusbar) put a fake clean status bar for google play screenshots.
 * [Mac - Android Tool](https://github.com/mortenjust/androidtool-mac): easy take iOS and Android screenshots.
