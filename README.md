@@ -30,6 +30,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * `Android Parcelable code generator` from [charmas guy](http://michal.charmas.pl): generate all the needed code for a class to be parcelable.
 * [Idea Multimarkdown](https://github.com/vsch/idea-multimarkdown): see md/markdown files beautiful, helpful for the project readme.
 * [QAPlug](http://qaplug.com/): integration with findbugs, PMD and checkstyle inside android studio.
+* [Methods Count](http://www.methodscount.com/plugins): let you see in android studio the methods count for each dependency.
 
 ## How many devices have which OS (dashboard/stats)
 1. [Google Play](https://developer.android.com/about/dashboards/index.html): Google play dashboard.
@@ -198,3 +199,4 @@ From it you can install:
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Daniel Gomez](https://github.com/danielgomezrico) has waived all copyright and related or neighboring rights to this work.
+
