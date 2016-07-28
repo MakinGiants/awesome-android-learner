@@ -17,6 +17,10 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 
 # Android
 
+## Slack Channels
+- [Androidchat](https://androidchat.co/) and [Android united](http://android-united.community/): share your questions and apps for feedback.
+- [KotlinLang](http://kotlinslackin.herokuapp.com/):discuss android topics too (but on kotlin).
+
 ## Style Guides
 * [Futurice - best practices](https://github.com/futurice/android-best-practices): Cool updated list of great practices to follow.
 
