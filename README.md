@@ -12,21 +12,17 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Network Bands for each country](http://www.gsmarena.com/network-bands.php3): shows which band is available on each country.
 
 ## Tools
-* [Adobe color](https://color.adobe.com): helps to define colors pallete for our apps.
+* [Adobe color](https://color.adobe.com/create/color-wheel): helps to define colors pallete for our apps.
 * [Material Design Color Generator](http://mcg.mbitson.com/#/): let you create the full pallete from a single color in hexa, rgb, etc...
 
 # Android
-
-## Slack Channels
-- [Androidchat](https://androidchat.co/) and [Android united](http://android-united.community/): share your questions and apps for feedback.
-- [KotlinLang](http://kotlinslackin.herokuapp.com/):discuss android topics too (but on kotlin).
 
 ## Style Guides
 * [Futurice - best practices](https://github.com/futurice/android-best-practices): Cool updated list of great practices to follow.
 
 ## Tools
 * [Android Demo mode](https://android.googlesource.com/platform/frameworks/base/+/android-6.0.0_r1/packages/SystemUI/docs/demo_mode.md): change status bar items for screenshots like wifi at full level.
-* [Vysor beta](https://chrome.google.com/webstore/detail/vysor-beta/gidgenkbbabolejbgbpnhbimgjbffefm/related): Mirror (clickable) the device screen into chrome, helpful for meetings on hangout/hero or something.
+* [Vysor beta](https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm): Mirror (clickable) the device screen into chrome, helpful for meetings on hangout/hero or something.
 
 ### Android studio plugins
 * [Adb-Idea](https://github.com/pbreault/adb-idea): Helps you to reset app data, uninstall app, and others from android studio and other
@@ -34,7 +30,6 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * `Android Parcelable code generator` from [charmas guy](http://michal.charmas.pl): generate all the needed code for a class to be parcelable.
 * [Idea Multimarkdown](https://github.com/vsch/idea-multimarkdown): see md/markdown files beautiful, helpful for the project readme.
 * [QAPlug](http://qaplug.com/): integration with findbugs, PMD and checkstyle inside android studio.
-* [Methods Count](http://www.methodscount.com/plugins): let you see in android studio the methods count for each dependency.
 
 ## How many devices have which OS (dashboard/stats)
 1. [Google Play](https://developer.android.com/about/dashboards/index.html): Google play dashboard.
@@ -51,12 +46,11 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Free - New Circle Courses](https://newcircle.com/category/android): New circle courses for android.
 * [Paid - Udemy - Android Lollipop complete development](https://www.udemy.com/android-marshmallow-java-app-development-course/): Tim Buchalka android course.
 * [danielgomezrico youtube android list](https://www.youtube.com/playlist?list=PLVnuKbla7wewsrNP00H9Yhk-Vh6tkEfEQ): selected list of videos to learn android from a lot of places.
-* [Parleys](https://www.parleys.com/tutorial/gradle-android-rest-world): a lot of android conf videos, this one is from the gradle CEO and founder.
 * [Material Design Tutorial Playlist](https://www.youtube.com/playlist?list=PLonJJ3BVjZW6CtAMbJz1XD8ELUs1KXaTD): material design youtube list.
 
 ## Conferences (travel and learn!)
 * [Google IO Conference](https://events.google.com/io2015/#): Google IO.
-* [Big Android BBQ](http://www.bigandroidbbq.com/): Google Big Android BBQ.
+* [Big Android BBQ](https://nvite.com/BABBQ16/c17a): Google Big Android BBQ.
 * [DroidCon Conference](http://droidcon.com/): DroidCon.
 * [NYC DroidCon 2014 Videos](http://nyc.droidcon.com/2014/): NYC DroidCon 2014.
 * [NYC DroidCon 2015 Videos](http://nyc.droidcon.com/2015/): NYC DroidCon 2015.
@@ -68,14 +62,13 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [GDG DevFests](https://developers.google.com/events/devfest/)
 
 ## Books
-* [Android-Development-Patterns-Professional-Developers](http://www.amazon.com/Android-Development-Patterns-Professional-Developers/dp/0133923681): list of patterns for android development.
+* [Android-Development-Patterns-Professional-Developers](https://www.amazon.com/Android-Development-Patterns-Professional-Developers/dp/0133923681): list of patterns for android development.
 * [The big nerd ranch guide v1](https://www.bignerdranch.com/we-write/android-programming/): Cool guide to learn the basics of every spec on android.
-* [JavaRX Essentials](http://www.amazon.com/RxJava-Essentials-Ivan-Morgillo/dp/1784399108): Cool book to learn the cool javaRX.
-* [Async Android](http://www.amazon.com/Asynchronous-Android-Steve-Liles/dp/1783286873): Async usages for Android.
+* [JavaRX Essentials](https://www.amazon.com/RxJava-Essentials-Ivan-Morgillo/dp/1784399108 ): Cool book to learn the cool javaRX.
+* [Async Android](https://www.amazon.com/Asynchronous-Android-Steve-Liles/dp/1783286873 ): Async usages for Android.
 * [Retrofit love working with apis on android](https://leanpub.com/retrofit-love-working-with-apis-on-android): Learn all about Retrofit.
 
 ## Cool posts
-* [No tabs in intellij-idea](http://hadihariri.com/2014/06/24/no-tabs-in-intellij-idea/): show ultra useful command and setups for android studio
 * [Understanding Android Naming Conventions](https://tir38.com/archives/1423): explains the idea behind each basic class of android framework to avoid confusions.
 * [Clean Architecture](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/): one way to architect your apps.
 * [Enable Lollipop colors/icon for chrome](https://developers.google.com/web/updates/2014/11/Support-for-theme-color-in-Chrome-39-for-Android): you can add colors and icon to chrome bar to make you site beautiful and theme based on mobile.
@@ -98,10 +91,8 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Espresso 2.0 presentation](https://docs.google.com/presentation/d/1EtFKPluGiuxZcr4W_cAziEY_--wbY_1otw44XEBv7JA/edit#slide=id.g98a986571_0_184): Testing with espresso 2.0.idcon-whats-new-in-android-testing-2015-jos-alcrreca): how to test!.
 * [Espresso tests "architecture"](http://room-15.github.io/blog/2015/03/19/adventures-in-espresso-p2/): give ideas about how to write tests in a clean and structured way (tests are code at the end... someone will maintain them).
 * [Improving UX through performance](https://speakerdeck.com/rejasupotaro/improving-ux-through-performance): explain which libraries they use to get images, improve performance on networking and memory management :).
-* [Level up your android build](https://www.parleys.com/tutorial/level-up-your-android-build): give great tips and tricks with gradle and everything releated builds.
 * [Task and document api](https://speakerdeck.com/mathieu_calba/task-and-document-api): explains how android manage activities and tasks.
 * [GCM to optimize battery](https://www.bignerdranch.com/blog/optimize-battery-life-with-androids-gcm-network-manager): clear explanation for GCM use to do requests and save battery.
-* [Working with material tabs](http://www.androidhive.info/2015/09/android-material-design-working-with-tabs/): how to create cool scrollable tabs with material design library.
 
 ## Open Source Apps
 * [DuckDuckGo](https://github.com/duckduckgo/android): The DuckDuckGo Android App.
@@ -112,17 +103,17 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Sunshine](https://github.com/udacity/Sunshine-Version-2): app developed on the Udacity course [Developing Android Apps](https://www.udacity.com/course/developing-android-apps--ud853)
 
 ## Tips
-* [Wireless debug](http://developer.android.com/tools/help/adb.html): how to develop without connect your device through USB.
+* [Wireless debug](https://developer.android.com/studio/command-line/adb.html): how to develop without connect your device through USB.
 
 ### Tools
 * [Image optim](https://imageoptim.com/es.html): Make your assets smaller. `#brew cask install imageoptim`.
 * [Density Converter](http://density.brdrck.me/): helps to see values for each density.
 * [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/): Assets management.
-* [Material Palette](http://www.materialpalette.com/): helps to define colors on material design interfaces.
+* [Material Palette](https://www.materialpalette.com/): helps to define colors on material design interfaces.
 * [Material Design Icons](https://materialdesignicons.com/): list of cool icons.
 * [Device sizes](http://viewportsizes.com/): check screen size for each device.
 * [Alfi](https://github.com/cesarferreira/alfi): Dependencies version with terminal.
-* [Vysor](https://chrome.google.com/webstore/detail/vysor-beta/gidgenkbbabolejbgbpnhbimgjbffefm): Cast the screen of any device to computer.
+* [Vysor](https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm): Cast the screen of any device to computer.
 
 #### Apps for developersma
 * [Android - Material](https://play.google.com/store/apps/details?id=fr.hozakan.materialdesigncolorpalette): see the material palette on your device.
@@ -138,7 +129,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Android community](https://github.com/tonilopezmr/android-community): list of videos.
 * [android-blogs](https://github.com/vbauer/android-blogs): List with blogs about Android.
 * [Android libs](https://android-libs.com): simple list of avialable libs.
-* [Libtastic](http://www.libtastic.com/): Discover top Android libraries based on their popularity in high-ranking apps.
+* [Libtastic](https://www.libtastic.com/): Discover top Android libraries based on their popularity in high-ranking apps.
 * [Android Arsenal](android-arsenal.com): list of available open libs with GUI, comments and so on.
 * [Github - snowdream awesome](https://github.com/snowdream/awesome-android): Categorized awesome.
 * [Github - wasabeef awesome ui](https://github.com/wasabeef/awesome-android-ui): Categorized awesome.
@@ -202,7 +193,7 @@ From it you can install:
 
 ## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Daniel Gomez](https://github.com/danielgomezrico) has waived all copyright and related or neighboring rights to this work.
 
