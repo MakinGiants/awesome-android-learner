@@ -49,6 +49,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Material Design Tutorial Playlist](https://www.youtube.com/playlist?list=PLonJJ3BVjZW6CtAMbJz1XD8ELUs1KXaTD): material design youtube list.
 
 ## Conferences (travel and learn!)
+* [Android Study Group conferences list](http://androidstudygroup.github.io/conferences/): list of upcoming and old conferences. WOW!
 * [Google IO Conference](https://events.google.com/io2015/#): Google IO.
 * [Big Android BBQ](https://nvite.com/BABBQ16/c17a): Google Big Android BBQ.
 * [DroidCon Conference](http://droidcon.com/): DroidCon.
