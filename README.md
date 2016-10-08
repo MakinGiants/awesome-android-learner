@@ -49,6 +49,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Material Design Tutorial Playlist](https://www.youtube.com/playlist?list=PLonJJ3BVjZW6CtAMbJz1XD8ELUs1KXaTD): material design youtube list.
 
 ## Conferences (travel and learn!)
+* [Android Study Group conferences list](http://androidstudygroup.github.io/conferences/): list of upcoming and old conferences. WOW!
 * [Google IO Conference](https://events.google.com/io2015/#): Google IO.
 * [Big Android BBQ](https://nvite.com/BABBQ16/c17a): Google Big Android BBQ.
 * [DroidCon Conference](http://droidcon.com/): DroidCon.
@@ -57,7 +58,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Devoxx Conference](https://www.devoxx.com/): Devoxx.
 * [BigNerdRanch Bootcamp](https://training.bignerdranch.com/classes/android-fundamentals): BigNerdRach bootcamp.
 * [AnDevCon Conference](http://www.andevcon.com/): AnDevCon.
-* [Mobile Web Dev Conference](http://mobilewebdevconference.com/): Mobile Web Dev (node js?).
+* [Mobile Web Dev Conference](http://2017.gsmiweb.com/devcon/): Mobile Web Dev (node js?).
 * [New Circle Android Bootmap](https://newcircle.com/class/android/android-bootcamp/denver-co/2015-06-22): new circle bootcamp.
 * [GDG DevFests](https://developers.google.com/events/devfest/)
 
@@ -196,4 +197,3 @@ From it you can install:
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Daniel Gomez](https://github.com/danielgomezrico) has waived all copyright and related or neighboring rights to this work.
-
