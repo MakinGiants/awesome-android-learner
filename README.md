@@ -70,6 +70,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Retrofit love working with apis on android](https://leanpub.com/retrofit-love-working-with-apis-on-android): Learn all about Retrofit.
 
 ## Cool posts
+* [Android studio tips tricks](https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2#.y9qzrinr6): cool  setups and tips for Android Studio.
 * [Understanding Android Naming Conventions](https://tir38.com/archives/1423): explains the idea behind each basic class of android framework to avoid confusions.
 * [Clean Architecture](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/): one way to architect your apps.
 * [Enable Lollipop colors/icon for chrome](https://developers.google.com/web/updates/2014/11/Support-for-theme-color-in-Chrome-39-for-Android): you can add colors and icon to chrome bar to make you site beautiful and theme based on mobile.
