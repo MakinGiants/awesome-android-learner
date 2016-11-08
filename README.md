@@ -44,7 +44,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Free - Ray Wenderlich](https://www.raywenderlich.com/56107/make-first-android-app-part-1): they do android tutorials too :O.
 * [Free - Codepath Android Wiki](https://github.com/codepath/android_guides): guides for android dev from codepath guys.
 * [Free - New Circle Courses](https://newcircle.com/category/android): New circle courses for android.
-* [Paid - Udemy - Android Lollipop complete development](https://www.udemy.com/android-marshmallow-java-app-development-course/): Tim Buchalka android course.
+* [Paid - Udemy - Android Lollipop complete development](https://www.udemy.com/master-android-7-nougat-java-app-development-step-by-step/): Tim Buchalka android course.
 * [danielgomezrico youtube android list](https://www.youtube.com/playlist?list=PLVnuKbla7wewsrNP00H9Yhk-Vh6tkEfEQ): selected list of videos to learn android from a lot of places.
 * [Material Design Tutorial Playlist](https://www.youtube.com/playlist?list=PLonJJ3BVjZW6CtAMbJz1XD8ELUs1KXaTD): material design youtube list.
 
@@ -70,6 +70,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Retrofit love working with apis on android](https://leanpub.com/retrofit-love-working-with-apis-on-android): Learn all about Retrofit.
 
 ## Cool posts
+* [Android studio tips tricks](https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2#.y9qzrinr6): cool  setups and tips for Android Studio.
 * [Understanding Android Naming Conventions](https://tir38.com/archives/1423): explains the idea behind each basic class of android framework to avoid confusions.
 * [Clean Architecture](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/): one way to architect your apps.
 * [Enable Lollipop colors/icon for chrome](https://developers.google.com/web/updates/2014/11/Support-for-theme-color-in-Chrome-39-for-Android): you can add colors and icon to chrome bar to make you site beautiful and theme based on mobile.
@@ -147,10 +148,6 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [LeetCode Solutions](https://github.com/diwu/LeetCode-Solutions-in-Swift): list of cool swift examples.
 * [DuckDuckGo](https://github.com/duckduckgo/ios): The DuckDuckGo iOS app.
 
-## How many devices have which OS (dashboard/stats)
-1. [iOS](https://developer.apple.com/support/app-store/): Official apple stats.
-1. [Wikipedia devices and versions](https://en.wikipedia.org/wiki/List_of_iOS_devices): wikipedia stats.
-
 ## Conferences
 * [Pragma Conference](http://www.pragmaconference.com/): iOS & OS X Developers Conference.
 
@@ -196,4 +193,4 @@ From it you can install:
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Daniel Gomez](https://github.com/danielgomezrico) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Daniel Gomez](https://github.com/caipivara) has waived all copyright and related or neighboring rights to this work.
