@@ -96,6 +96,10 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Task and document api](https://speakerdeck.com/mathieu_calba/task-and-document-api): explains how android manage activities and tasks.
 * [GCM to optimize battery](https://www.bignerdranch.com/blog/optimize-battery-life-with-androids-gcm-network-manager): clear explanation for GCM use to do requests and save battery.
 
+## Meetups/Talks
+* [Jake Wharton - testing robots](https://realm.io/news/kau-jake-wharton-testing-robots/): a testing maintainability idea.
+* [Droidcon NYC 2016 - Espresso: A Screenshot is Worth 1,000 Words](https://www.youtube.com/watch?v=fhx_Ji5s3p4): testing experiences with espresso.
+
 ## Open Source Apps
 * [DuckDuckGo](https://github.com/duckduckgo/android): The DuckDuckGo Android App.
 * [Google IO 2014 compat example](https://github.com/rahulparsani/google-io-2014-compat): Google IO app from 2014!.
