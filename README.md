@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Awesome Mobile Dev
+Awesome Android Learner
 ==================
 
 Another Awesome for those who are searching for a "study guide" for mobile development.
@@ -142,56 +142,6 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Github - JStumpp awesome](https://github.com/JStumpp/awesome-android): Categorized awesome.
 * [Codepath - Must have libraries](https://guides.codepath.com/android/Must-Have-Libraries): Cool guide about base libs for every project.
 * [Android performance](https://github.com/Juude/awesome-android-performance/blob/master/README.md): help you to learn about how to add performance boost.
-
-#iOS
-
-## Tools
-* [iOS Console](http://lemonjar.com/iosconsole/): cool console outside of xcode to see logs:D.
-
-## Open Source Projects
-* [LeetCode Solutions](https://github.com/diwu/LeetCode-Solutions-in-Swift): list of cool swift examples.
-* [DuckDuckGo](https://github.com/duckduckgo/ios): The DuckDuckGo iOS app.
-
-## Conferences
-* [Pragma Conference](http://www.pragmaconference.com/): iOS & OS X Developers Conference.
-
-## Tips
-* [Screen mirror iOS](http://pro.itools.cn/airplayer): mirror your device wireless to any computer (can be windows).
-
-## Training
-* [NSScreencast](http://nsscreencast.com/episodes): cool list of videos to learn iOS development.
-* [Raywenderlich](https://www.raywenderlich.com/): BEST resource to learn iOS.
-* [NSHipster](http://nshipster.com/): another cool list of videos from AFNetworking guys.
-* [Tutorials 1](https://swiftlang.eu/community/conversations/tutorials-and-resources)
-* [Codepath ios Wiki](https://github.com/codepath/ios_guides): codepath guys have iOS guides too.
-
-## Tutorials
-* [Swift guard statement](http://ericcerney.com/swift-guard-statement/): shows how to use guard in a cool way to have a cleaner code than if else.
-* [Route 85 - Google developers teach iOS](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKGQekfmV0Qk52qLG5LU2jO): learn from google guys cool iOS tips.
-* [Functional swift](https://www.youtube.com/watch?v=8eFexVRxM-k): youtube video to learn cool things about functional swift.
-
-## Some Libraries
-* [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs/wiki/Detailed-Library-Integration-instructions): mock/stub every url response to your http library for testing (dont need to add code to alamofire or afnetworking).
-* [AFNetworking](afnetworking.com/): obj-c http client for requests.
-* [RBStoryboardLink](https://github.com/rob-brown/RBStoryboardLink): decompose into multiple storyboards the application and avoid merge problems.
-* [SwiftyJSON](https://github.com/lingoer/SwiftyJSON): json parser. (default JSON parser is ultra hiper verbose).
-* [MBProgressHUD](https://github.com/jdg/MBProgressHUD): used to show loading messages.
-* [PonyDebugger](https://github.com/square/PonyDebugger): use web developer console to track HTTP requests.
-
-## Xcode Plugins
-
-A cool plugin manager is [Alcatraz](https://github.com/alcatraz/Alcatraz).
-From it you can install:
-
-* [Blacklight](https://github.com/limejelly/Backlight-for-XCode): highlight actual line.
-* [Fuzzy Autocomplete](https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin): improve Xcode autocomplete!.
-* [XToDo](https://github.com/trawor/XToDo): TODO and FIX list helper.
-* [SuggestedColors](https://github.com/jwaitzel/SuggestedColors/): it helps with app colors in storyboard, define the app colors inside a plist and then  see them by name on storyboard color picker.
-
-## Awesomes (categorized list of awesome links)
-* [Wolg - Awesome swift](https://github.com/Wolg/awesome-swift): Cool awesome for iOS and swift.
-* [Matteocrippa - Awesome swift](https://github.com/matteocrippa/awesome-swift): Cool awesome for iOS and swift.
-* [Vzousa - awesome-ios](https://github.com/vsouza/awesome-ios): Cool awesome for iOS and swift.
 
 ## License
 
