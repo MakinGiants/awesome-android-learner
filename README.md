@@ -73,11 +73,10 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 
 # Posts
 * [Android studio tips tricks](https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2#.y9qzrinr6): cool  setups and tips for Android Studio.
-* [Understanding Android Naming Conventions](http://jasonatwood.io/archives/1423): explains the idea behind each basic class of android framework to avoid confusions.
+* [Understanding Android Naming Conventions](https://jasonatwood.io/archives/1423): explains the idea behind each basic class of android framework to avoid confusions.
 * [Enable Lollipop colors/icon for chrome](https://developers.google.com/web/updates/2014/11/Support-for-theme-color-in-Chrome-39-for-Android): you can add colors and icon to chrome bar to make you site beautiful and theme based on mobile.
 * [Install Google Apps into Genymotion Emulator](https://gist.github.com/wbroek/9321145): how to install google services into genymotion emulators.
 * [Design for Pre lollipop -compat](https://android-developers.googleblog.com/2014/10/appcompat-v21-material-design-for-pre.html): guide to setup project to use app compat.
-* [Material design checklist](https://android-developers.blogspot.com/2014/10/material-design-on-android-checklist.html): are you using all material design things?.
 * [Materialize your app - Antonio Leiva](http://antonioleiva.com/materialize-app/): Antonio leiva post about how to materialize your app.
 * [Material Design Colors Explanation](https://www.youtube.com/watch?v=xYkz0Ueg0L4): learn how to use colors with material design ideas in youtube.
 * [Material animations shared elements AppCompat - Antonio Leiva](http://antonioleiva.com/material-design-everywhere/): how animate views between activities!.
