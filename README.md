@@ -54,7 +54,6 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 
 # Courses
 * [Free/paid - OFFICIAL GOOGLE - Udacity](https://www.udacity.com/google): Google android official courses and nanodegree.
-* [Free - OFFICIAL free google courses](https://android-developers.blogspot.com/2014/10/material-design-on-android-checklist.html ): Base site for android training.
 * [Free - OFFICIAL Google Analytics for Mobile apps - Google FREE](https://analyticsacademy.withgoogle.com/course/4): Google analytics academy.
 * [Free - Google Developers Channel](https://www.youtube.com/user/GoogleDevelopers): youtube list of videos from google.
 * [Free - Android Developers](https://www.youtube.com/user/androiddevelopers): youtube list of cool videos.
@@ -74,10 +73,10 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 
 # Posts
 * [Android studio tips tricks](https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2#.y9qzrinr6): cool  setups and tips for Android Studio.
-* [Understanding Android Naming Conventions](https://tir38.com/archives/1423): explains the idea behind each basic class of android framework to avoid confusions.
+* [Understanding Android Naming Conventions](http://jasonatwood.io/archives/1423): explains the idea behind each basic class of android framework to avoid confusions.
 * [Enable Lollipop colors/icon for chrome](https://developers.google.com/web/updates/2014/11/Support-for-theme-color-in-Chrome-39-for-Android): you can add colors and icon to chrome bar to make you site beautiful and theme based on mobile.
 * [Install Google Apps into Genymotion Emulator](https://gist.github.com/wbroek/9321145): how to install google services into genymotion emulators.
-* [Design for Pre lollipop -compat](https://android-developers.blogspot.com/2014/10/appcompat-v21-material-design-for-pre.html): guide to setup project to use app compat.
+* [Design for Pre lollipop -compat](https://android-developers.googleblog.com/2014/10/appcompat-v21-material-design-for-pre.html): guide to setup project to use app compat.
 * [Material design checklist](https://android-developers.blogspot.com/2014/10/material-design-on-android-checklist.html): are you using all material design things?.
 * [Materialize your app - Antonio Leiva](http://antonioleiva.com/materialize-app/): Antonio leiva post about how to materialize your app.
 * [Material Design Colors Explanation](https://www.youtube.com/watch?v=xYkz0Ueg0L4): learn how to use colors with material design ideas in youtube.
@@ -89,7 +88,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Which android http library to use](https://packetzoom.com/blog/which-android-http-library-to-use.html): cool explanation for http requests and libraries.
 * [Activity launch modes](http://inthecheesefactory.com/blog/understand-android-activity-launchmode/en): launch modes explanation.
 * [AutocompleteTextView examples (including address autocomplete)](http://android.foxykeep.com/dev/how-to-add-autocompletion-to-an-edittext): autotomplete address, accounts and more to copy and paste.
-* [6 Things I wish I knew before I wrote my first app](http://www.philosophicalhacker.com/2015/07/09/6-things-i-wish-i-knew-before-i-wrote-my-first-android-app/): base concepts to learn and avoid performance problems.
+* [6 Things I wish I knew before I wrote my first app](https://www.philosophicalhacker.com/2015/07/09/6-things-i-wish-i-knew-before-i-wrote-my-first-android-app/): base concepts to learn and avoid performance problems.
 * [Android performance - Omertsimsek](http://www.slideshare.net/omertsimsek/andromance-android-performance-devfest-ankara-2013?qid=7c54c68a-2d60-44ce-b4c8-d5bff3477727&v=qf1&b&from_search=8): because performance matterns there are cool slides about.
 * [Espresso 2.0 presentation](https://docs.google.com/presentation/d/1EtFKPluGiuxZcr4W_cAziEY_--wbY_1otw44XEBv7JA/edit#slide=id.g98a986571_0_184): Testing with espresso 2.0.idcon-whats-new-in-android-testing-2015-jos-alcrreca): how to test!.
 * [Espresso tests "architecture"](http://room-15.github.io/blog/2015/03/19/adventures-in-espresso-p2/): give ideas about how to write tests in a clean and structured way (tests are code at the end... someone will maintain them).
