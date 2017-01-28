@@ -54,7 +54,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 
 # Courses
 * [Free/paid - OFFICIAL GOOGLE - Udacity](https://www.udacity.com/google): Google android official courses and nanodegree.
-* [Free - OFFICIAL free google courses](http://android-developers.blogspot.com/2015/06/introducing-new-android-training.html): Base site for android training.
+* [Free - OFFICIAL free google courses](https://android-developers.blogspot.com/2014/10/material-design-on-android-checklist.html ): Base site for android training.
 * [Free - OFFICIAL Google Analytics for Mobile apps - Google FREE](https://analyticsacademy.withgoogle.com/course/4): Google analytics academy.
 * [Free - Google Developers Channel](https://www.youtube.com/user/GoogleDevelopers): youtube list of videos from google.
 * [Free - Android Developers](https://www.youtube.com/user/androiddevelopers): youtube list of cool videos.
@@ -77,8 +77,8 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Understanding Android Naming Conventions](https://tir38.com/archives/1423): explains the idea behind each basic class of android framework to avoid confusions.
 * [Enable Lollipop colors/icon for chrome](https://developers.google.com/web/updates/2014/11/Support-for-theme-color-in-Chrome-39-for-Android): you can add colors and icon to chrome bar to make you site beautiful and theme based on mobile.
 * [Install Google Apps into Genymotion Emulator](https://gist.github.com/wbroek/9321145): how to install google services into genymotion emulators.
-* [Design for Pre lollipop -compat](http://android-developers.blogspot.com/2014/10/appcompat-v21-material-design-for-pre.html): guide to setup project to use app compat.
-* [Material design checklist](http://android-developers.blogspot.com/2014/10/material-design-on-android-checklist.html): are you using all material design things?.
+* [Design for Pre lollipop -compat](https://android-developers.blogspot.com/2014/10/appcompat-v21-material-design-for-pre.html): guide to setup project to use app compat.
+* [Material design checklist](https://android-developers.blogspot.com/2014/10/material-design-on-android-checklist.html): are you using all material design things?.
 * [Materialize your app - Antonio Leiva](http://antonioleiva.com/materialize-app/): Antonio leiva post about how to materialize your app.
 * [Material Design Colors Explanation](https://www.youtube.com/watch?v=xYkz0Ueg0L4): learn how to use colors with material design ideas in youtube.
 * [Material animations shared elements AppCompat - Antonio Leiva](http://antonioleiva.com/material-design-everywhere/): how animate views between activities!.
@@ -106,7 +106,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Open libra - Material Design Showcase](https://github.com/saulmm/OpenLibra-Material): Cool material design example.
 * [WallSplash - Material Design Showcase](https://github.com/mikepenz/wallsplash-android): wallpaper app but don´t have the last code. :(.
 * [Material Animation Samples](https://github.com/tarek360/Material-Animation-Samples): some material design examples.
-* [Sunshine](https://github.com/udacity/Sunshine-Version-2): app developed on the Udacity course [Developing Android Apps](https://www.udacity.com/course/developing-android-apps--ud853)
+* [Sunshine](https://github.com/udacity/Sunshine-Version-2): app developed on the Udacity course [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
 
 # Awesomes (categorized list of awesome links)
 * [Android community](https://github.com/tonilopezmr/android-community): list of videos.
