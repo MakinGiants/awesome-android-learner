@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/MakinGiants/awesome-android-learner.svg?branch=master)](https://travis-ci.org/MakinGiants/awesome-android-learner) 
+[![Build Status](https://travis-ci.org/MakinGiants/awesome-mobile-dev.svg?branch=master)](https://travis-ci.org/MakinGiants/awesome-mobile-dev)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Awesome Android Learner
@@ -15,65 +15,22 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Elminating code overhead - Square 2015](https://speakerdeck.com/jakewharton/eliminating-code-overhead-square-hq-2015): Android performance ideas to use from Jacke Warthon.
 * [Jake Wharton - testing robots](https://realm.io/news/kau-jake-wharton-testing-robots/): a testing maintainability idea.
 
-# Tools
-* [Network Bands for each country](http://www.gsmarena.com/network-bands.php3): shows which band is available on each country.
-* [Adobe color](https://color.adobe.com/create/color-wheel): helps to define colors pallete for our apps.
-* [Material Design Color Generator](http://mcg.mbitson.com/#/): let you create the full pallete from a single color in hexa, rgb, etc...
-* [Android Demo mode](https://android.googlesource.com/platform/frameworks/base/+/android-6.0.0_r1/packages/SystemUI/docs/demo_mode.md): change status bar items for screenshots like wifi at full level.
-* [Vysor beta](https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm): Mirror (clickable) the device screen into chrome, helpful for meetings on hangout/hero or something.
-* [Image optim](https://imageoptim.com/es.html): Make your assets smaller. `#brew cask install imageoptim`.
-* [Density Converter](http://density.brdrck.me/): helps to see values for each density.
-* [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/): Assets management.
-* [Material Palette](https://www.materialpalette.com/): helps to define colors on material design interfaces.
-* [Material Design Icons](https://materialdesignicons.com/): list of cool icons.
-* [Device sizes](http://viewportsizes.com/): check screen size for each device.
-* [Alfi](https://github.com/cesarferreira/alfi): Dependencies version with terminal.
-* [Vysor](https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm): Cast the screen of any device to computer.
-
-## Podcasts
-* [Fragmented podcast](http://fragmentedpodcast.com/): Donn Felker and other folks talking about android, follow on [twitter](https://twitter.com/FragmentedCast).
-* [Talking Kotlin](http://talkingkotlin.com/extensions-with-jake-wharton/): podcast focused on Kotlin.
-
-### Android studio plugins
->>>>>>> Add Podcasts
-* [Adb-Idea](https://github.com/pbreault/adb-idea): Helps you to reset app data, uninstall app, and others from android studio and other
-* [Material design icon generator](https://github.com/konifar/android-material-design-icon-generator-plugin): helps you to import drawables for each size from the material icon source into android studio with defined size and color.
-* `Android Parcelable code generator` from [charmas guy](http://michal.charmas.pl): generate all the needed code for a class to be parcelable.
-* [Idea Multimarkdown](https://github.com/vsch/idea-multimarkdown): see md/markdown files beautiful, helpful for the project readme.
-* [QAPlug](http://qaplug.com/): integration with findbugs, PMD and checkstyle inside android studio.
-
-# Apps for developers
-* [Android - Material](https://play.google.com/store/apps/details?id=fr.hozakan.materialdesigncolorpalette): see the material palette on your device.
-* [Android - Clean Status Bar](https://play.google.com/store/apps/details?id=com.emmaguy.cleanstatusbar) put a fake clean status bar for google play screenshots.
-* [Mac - Android Tool](https://github.com/mortenjust/androidtool-mac): easy take iOS and Android screenshots.
-* [Release android library plugin for bintray](https://github.com/ArthurHub/release-android-library): gradle plugin to release your libraries to bintray (and jcenter).
-* [Bluestacks](bluestacks.com): android on desktop. parse, google services (Already installed) and fabric works on it.
-* [R.tools](https://github.com/andriydruk/R.tools): app that let you see and change device configurations.
-* [Pixocolor](https://play.google.com/store/apps/details?id=com.embermitre.pixolor.app): see any color pixel on your screen.
-* [Texpand](https://play.google.com/store/apps/details?id=com.isaiasmatewos.texpand): text shortcuts, helpful to add users and pwd or other text you write always into there.
-
-# How many devices have which OS (dashboard/stats)
-1. [Google Play](https://developer.android.com/about/dashboards/index.html): Google play dashboard.
-1. [AppBrain](http://www.appbrain.com/stats/top-android-sdk-versions): AppBrain dashboard.
-
-# Courses
-* [Free/paid - OFFICIAL GOOGLE - Udacity](https://www.udacity.com/google): Google android official courses and nanodegree.
-* [Free - OFFICIAL Google Analytics for Mobile apps - Google FREE](https://analyticsacademy.withgoogle.com/course/4): Google analytics academy.
-* [Free - Google Developers Channel](https://www.youtube.com/user/GoogleDevelopers): youtube list of videos from google.
-* [Free - Android Developers](https://www.youtube.com/user/androiddevelopers): youtube list of cool videos.
-* [Free - Ray Wenderlich](https://www.raywenderlich.com/56107/make-first-android-app-part-1): they do android tutorials too :O.
-* [Free - Codepath Android Wiki](https://github.com/codepath/android_guides): guides for android dev from codepath guys.
-* [Free - New Circle Courses](https://newcircle.com/category/android): New circle courses for android.
-* [Paid - Udemy - Android Lollipop complete development](https://www.udemy.com/master-android-7-nougat-java-app-development-step-by-step/): Tim Buchalka android course.
-* [danielgomezrico youtube android list](https://www.youtube.com/playlist?list=PLVnuKbla7wewsrNP00H9Yhk-Vh6tkEfEQ): selected list of videos to learn android from a lot of places.
-* [Material Design Tutorial Playlist](https://www.youtube.com/playlist?list=PLonJJ3BVjZW6CtAMbJz1XD8ELUs1KXaTD): material design youtube list.
-
 # Books
 * [Android-Development-Patterns-Professional-Developers](https://www.amazon.com/Android-Development-Patterns-Professional-Developers/dp/0133923681): list of patterns for android development.
 * [The big nerd ranch guide v1](https://www.bignerdranch.com/we-write/android-programming/): Cool guide to learn the basics of every spec on android.
 * [JavaRX Essentials](https://www.amazon.com/RxJava-Essentials-Ivan-Morgillo/dp/1784399108 ): Cool book to learn the cool javaRX.
 * [Async Android](https://www.amazon.com/Asynchronous-Android-Steve-Liles/dp/1783286873 ): Async usages for Android.
 * [Retrofit love working with apis on android](https://leanpub.com/retrofit-love-working-with-apis-on-android): Learn all about Retrofit.
+
+# Meetups/Talks/Videos
+* [Droidcon NYC 2016 - Espresso: A Screenshot is Worth 1,000 Words](https://www.youtube.com/watch?v=fhx_Ji5s3p4): testing experiences with espresso.
+* [danielgomezrico youtube android list](https://www.youtube.com/playlist?list=PLVnuKbla7wewsrNP00H9Yhk-Vh6tkEfEQ): selected list of videos to learn android from a lot of places.
+* [Free - Google Developers Channel](https://www.youtube.com/user/GoogleDevelopers): youtube list of videos from google.
+* [Free - Android Developers](https://www.youtube.com/user/androiddevelopers): youtube list of cool videos.
+
+# Podcasts
+* [Fragmented podcast](http://fragmentedpodcast.com/): Donn Felker and other folks talking about android, follow on [twitter](https://twitter.com/FragmentedCast).
+* [Talking Kotlin](http://talkingkotlin.com/extensions-with-jake-wharton/): podcast focused on Kotlin.
 
 # Posts
 * [Android studio tips tricks](https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2#.y9qzrinr6): cool  setups and tips for Android Studio.
@@ -99,9 +56,6 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Task and document api](https://speakerdeck.com/mathieu_calba/task-and-document-api): explains how android manage activities and tasks.
 * [GCM to optimize battery](https://www.bignerdranch.com/blog/optimize-battery-life-with-androids-gcm-network-manager): clear explanation for GCM use to do requests and save battery.
 
-# Meetups/Talks
-* [Droidcon NYC 2016 - Espresso: A Screenshot is Worth 1,000 Words](https://www.youtube.com/watch?v=fhx_Ji5s3p4): testing experiences with espresso.
-
 # Open Source Apps
 * [DuckDuckGo](https://github.com/duckduckgo/android): The DuckDuckGo Android App.
 * [Google IO 2014 compat example](https://github.com/rahulparsani/google-io-2014-compat): Google IO app from 2014!.
@@ -110,7 +64,42 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Material Animation Samples](https://github.com/tarek360/Material-Animation-Samples): some material design examples.
 * [Sunshine](https://github.com/udacity/Sunshine-Version-2): app developed on the Udacity course [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
 
-# Awesomes (categorized list of awesome links)
+# Courses
+* [Free/paid - OFFICIAL GOOGLE - Udacity](https://www.udacity.com/google): Google android official courses and nanodegree.
+* [Free - OFFICIAL Google Analytics for Mobile apps - Google FREE](https://analyticsacademy.withgoogle.com/course/4): Google analytics academy.
+* [Free - Codepath Android Wiki](https://github.com/codepath/android_guides): guides for android dev from codepath guys.
+* [Free - New Circle Courses](https://newcircle.com/category/android): New circle courses for android.
+
+# Tools
+## Chrome
+* [Vysor](https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm): Mirror (clickable) the device screen into chrome, helpful for meetings on hangout/hero or something.
+
+## Mac
+* [Android Tool](https://github.com/mortenjust/androidtool-mac): easy take iOS and Android screenshots.
+* [Image optim](https://imageoptim.com/es.html): Make your assets smaller. `#brew cask install imageoptim`.
+* [Sip](https://itunes.apple.com/co/app/sip/id507257563?l=en&mt=12): cool color picker.
+* [Alfi](https://github.com/cesarferreira/alfi): check new versions for your dependencies from terminal.
+
+## Web
+* [Adobe color](https://color.adobe.com/create/color-wheel): helps to define colors pallete for our apps.
+* [Material Design Color Generator](http://mcg.mbitson.com/#/): let you create the full pallete from a single color in hexa, rgb, etc...
+* [Android Demo mode](https://android.googlesource.com/platform/frameworks/base/+/android-6.0.0_r1/packages/SystemUI/docs/demo_mode.md): change status bar items for screenshots like wifi at full level.
+* [Density Converter](http://density.brdrck.me/): helps to see values for each density.
+* [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/): Assets management.
+* [Material Palette](https://www.materialpalette.com/): helps to define colors on material design interfaces.
+* [Material Design Icons](https://material.io/icons/): search and download official android icons.
+* [Device sizes](http://viewportsizes.com/): check screen size for each device.
+
+## Android Studio/ Gradle Plugins
+* [Adb-Idea](https://github.com/pbreault/adb-idea): Helps you to reset app data, uninstall app, and others from android studio and other
+* [Material design icon generator](https://github.com/konifar/android-material-design-icon-generator-plugin): helps you to import drawables for each size from the material icon source into android studio with defined size and color.
+
+## Apps for test devices (for you)
+* [Android - Material](https://play.google.com/store/apps/details?id=fr.hozakan.materialdesigncolorpalette): see the material palette on your device.
+* [Android - Clean Status Bar](https://play.google.com/store/apps/details?id=com.emmaguy.cleanstatusbar) put a fake clean status bar for google play screenshots.
+* [Texpand](https://play.google.com/store/apps/details?id=com.isaiasmatewos.texpand): save time creating autocomplete texts inside your android test device.
+
+# Other Awesomes (categorized list of awesome links)
 * [Android community](https://github.com/tonilopezmr/android-community): list of videos.
 * [android-blogs](https://github.com/vbauer/android-blogs): List with blogs about Android.
 * [Android libs](https://android-libs.com): simple list of avialable libs.
