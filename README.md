@@ -61,12 +61,23 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Free - OFFICIAL Google Analytics for Mobile apps - Google FREE](https://analyticsacademy.withgoogle.com/course/4): Google analytics academy.
 * [Free - Google Developers Channel](https://www.youtube.com/user/GoogleDevelopers): youtube list of videos from google.
 * [Free - Android Developers](https://www.youtube.com/user/androiddevelopers): youtube list of cool videos.
-* [Free - Ray Wenderlich](https://www.raywenderlich.com/56107/make-first-android-app-part-1): they do android tutorials too :O.
-* [Free - Codepath Android Wiki](https://github.com/codepath/android_guides): guides for android dev from codepath guys.
-* [Free - New Circle Courses](https://newcircle.com/category/android): New circle courses for android.
-* [Paid - Udemy - Android Lollipop complete development](https://www.udemy.com/master-android-7-nougat-java-app-development-step-by-step/): Tim Buchalka android course.
-* [danielgomezrico youtube android list](https://www.youtube.com/playlist?list=PLVnuKbla7wewsrNP00H9Yhk-Vh6tkEfEQ): selected list of videos to learn android from a lot of places.
-* [Material Design Tutorial Playlist](https://www.youtube.com/playlist?list=PLonJJ3BVjZW6CtAMbJz1XD8ELUs1KXaTD): material design youtube list.
+[![Build Status](https://travis-ci.org/MakinGiants/awesome-mobile-dev.svg?branch=master)](https://travis-ci.org/MakinGiants/awesome-mobile-dev)
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+Awesome Android Learner
+==================
+
+Another Awesome for those who are searching a *study guide* for android development.
+You can find interesting posts, tools, plugins, open source apps, everything that may help to develop more and better android things.
+
+# Random
+* [Futurice - best practices](https://github.com/futurice/android-best-practices): Cool updated list of great practices to follow.
+* [Android Study Group conferences list](http://androidstudygroup.github.io/conferences/): list of upcoming and old conferences. WOW!
+* [Wireless debug](https://developer.android.com/studio/command-line/adb.html): how to develop without connect your device through USB.
+* [Clean Architecture](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/): one way to architect your apps.
+* [Elminating code overhead - Square 2015](https://speakerdeck.com/jakewharton/eliminating-code-overhead-square-hq-2015): Android performance ideas to use from Jacke Warthon.
+* [Jake Wharton - testing robots](https://realm.io/news/kau-jake-wharton-testing-robots/): a testing maintainability idea.
 
 # Books
 * [Android-Development-Patterns-Professional-Developers](https://www.amazon.com/Android-Development-Patterns-Professional-Developers/dp/0133923681): list of patterns for android development.
@@ -74,6 +85,16 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [JavaRX Essentials](https://www.amazon.com/RxJava-Essentials-Ivan-Morgillo/dp/1784399108 ): Cool book to learn the cool javaRX.
 * [Async Android](https://www.amazon.com/Asynchronous-Android-Steve-Liles/dp/1783286873 ): Async usages for Android.
 * [Retrofit love working with apis on android](https://leanpub.com/retrofit-love-working-with-apis-on-android): Learn all about Retrofit.
+
+# Meetups/Talks/Videos
+* [Droidcon NYC 2016 - Espresso: A Screenshot is Worth 1,000 Words](https://www.youtube.com/watch?v=fhx_Ji5s3p4): testing experiences with espresso.
+* [danielgomezrico youtube android list](https://www.youtube.com/playlist?list=PLVnuKbla7wewsrNP00H9Yhk-Vh6tkEfEQ): selected list of videos to learn android from a lot of places.
+* [Free - Google Developers Channel](https://www.youtube.com/user/GoogleDevelopers): youtube list of videos from google.
+* [Free - Android Developers](https://www.youtube.com/user/androiddevelopers): youtube list of cool videos.
+
+# Podcasts
+* [Fragmented podcast](http://fragmentedpodcast.com/): Donn Felker and other folks talking about android, follow on [twitter](https://twitter.com/FragmentedCast).
+* [Talking Kotlin](http://talkingkotlin.com/extensions-with-jake-wharton/): podcast focused on Kotlin.
 
 # Posts
 * [Android studio tips tricks](https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2#.y9qzrinr6): cool  setups and tips for Android Studio.
@@ -99,9 +120,6 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Task and document api](https://speakerdeck.com/mathieu_calba/task-and-document-api): explains how android manage activities and tasks.
 * [GCM to optimize battery](https://www.bignerdranch.com/blog/optimize-battery-life-with-androids-gcm-network-manager): clear explanation for GCM use to do requests and save battery.
 
-# Meetups/Talks
-* [Droidcon NYC 2016 - Espresso: A Screenshot is Worth 1,000 Words](https://www.youtube.com/watch?v=fhx_Ji5s3p4): testing experiences with espresso.
-
 # Open Source Apps
 * [DuckDuckGo](https://github.com/duckduckgo/android): The DuckDuckGo Android App.
 * [Google IO 2014 compat example](https://github.com/rahulparsani/google-io-2014-compat): Google IO app from 2014!.
@@ -110,7 +128,43 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Material Animation Samples](https://github.com/tarek360/Material-Animation-Samples): some material design examples.
 * [Sunshine](https://github.com/udacity/Sunshine-Version-2): app developed on the Udacity course [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
 
-# Awesomes (categorized list of awesome links)
+# Tools
+## Chrome
+* [Vysor](https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm): Mirror (clickable) the device screen into chrome, helpful for meetings on hangout/hero or something.
+
+## Mac
+* [Android Tool](https://github.com/mortenjust/androidtool-mac): easy take iOS and Android screenshots.
+* [Image optim](https://imageoptim.com/es.html): Make your assets smaller. `#brew cask install imageoptim`.
+* [Sip](https://itunes.apple.com/co/app/sip/id507257563?l=en&mt=12): cool color picker.
+* [Alfi](https://github.com/cesarferreira/alfi): check new versions for your dependencies from terminal.
+
+## Web
+* [Adobe color](https://color.adobe.com/create/color-wheel): helps to define colors pallete for our apps.
+* [Material Design Color Generator](http://mcg.mbitson.com/#/): let you create the full pallete from a single color in hexa, rgb, etc...
+* [Android Demo mode](https://android.googlesource.com/platform/frameworks/base/+/android-6.0.0_r1/packages/SystemUI/docs/demo_mode.md): change status bar items for screenshots like wifi at full level.
+* [Density Converter](http://density.brdrck.me/): helps to see values for each density.
+* [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/): Assets management.
+* [Material Palette](https://www.materialpalette.com/): helps to define colors on material design interfaces.
+* [Material Design Icons](https://material.io/icons/): search and download official android icons.
+* [Device sizes](http://viewportsizes.com/): check screen size for each device.
+
+## Android Studio/ Gradle Plugins
+* [Adb-Idea](https://github.com/pbreault/adb-idea): Helps you to reset app data, uninstall app, and others from android studio and other
+* [Material design icon generator](https://github.com/konifar/android-material-design-icon-generator-plugin): helps you to import drawables for each size from the material icon source into android studio with defined size and color.
+
+## Apps for test devices (for you)
+* [Android - Material](https://play.google.com/store/apps/details?id=fr.hozakan.materialdesigncolorpalette): see the material palette on your device.
+* [Android - Clean Status Bar](https://play.google.com/store/apps/details?id=com.emmaguy.cleanstatusbar) put a fake clean status bar for google play screenshots.
+* [Texpand](https://play.google.com/store/apps/details?id=com.isaiasmatewos.texpand): save time creating autocomplete texts inside your android test device.
+
+# Courses
+* [Free/paid - OFFICIAL GOOGLE - Udacity](https://www.udacity.com/google): Google android official courses and nanodegree.
+* [Free - OFFICIAL Google Analytics for Mobile apps - Google FREE](https://analyticsacademy.withgoogle.com/course/4): Google analytics academy.
+* [Free - Codepath Android Wiki](https://github.com/codepath/android_guides): guides for android dev from codepath guys.
+* [Free - New Circle Courses](https://newcircle.com/category/android): New circle courses for android.
+
+
+# Other Awesomes (categorized list of awesome links)
 * [Android community](https://github.com/tonilopezmr/android-community): list of videos.
 * [android-blogs](https://github.com/vbauer/android-blogs): List with blogs about Android.
 * [Android libs](https://android-libs.com): simple list of avialable libs.
@@ -127,3 +181,4 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Daniel Gomez](https://github.com/caipivara) has waived all copyright and related or neighboring rights to this work.
+
