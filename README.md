@@ -5,8 +5,8 @@
 Awesome Android Learner
 ==================
 
-Another Awesome for those who are searching for a "study guide" for mobile development.
-You can find interesting posts, tools, plugins, open source apps, everything that may help to develop more and better mobile software.
+Another Awesome for those who are searching a *study guide* for android development.
+You can find interesting posts, tools, plugins, open source apps, everything that may help to develop more and better android things.
 
 # Random
 * [Futurice - best practices](https://github.com/futurice/android-best-practices): Cool updated list of great practices to follow.
@@ -31,7 +31,12 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Alfi](https://github.com/cesarferreira/alfi): Dependencies version with terminal.
 * [Vysor](https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm): Cast the screen of any device to computer.
 
-## Android studio plugins
+## Podcasts
+* [Fragmented podcast](http://fragmentedpodcast.com/): Donn Felker and other folks talking about android, follow on [twitter](https://twitter.com/FragmentedCast).
+* [Talking Kotlin](http://talkingkotlin.com/extensions-with-jake-wharton/): podcast focused on Kotlin.
+
+### Android studio plugins
+>>>>>>> Add Podcasts
 * [Adb-Idea](https://github.com/pbreault/adb-idea): Helps you to reset app data, uninstall app, and others from android studio and other
 * [Material design icon generator](https://github.com/konifar/android-material-design-icon-generator-plugin): helps you to import drawables for each size from the material icon source into android studio with defined size and color.
 * `Android Parcelable code generator` from [charmas guy](http://michal.charmas.pl): generate all the needed code for a class to be parcelable.
