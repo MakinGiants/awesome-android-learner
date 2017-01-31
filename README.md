@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/MakinGiants/awesome-mobile-dev.svg?branch=master)](https://travis-ci.org/MakinGiants/awesome-mobile-dev)
+[![Build Status](https://travis-ci.org/MakinGiants/awesome-android-learner.svg?branch=master)](https://travis-ci.org/MakinGiants/awesome-android-learner)
 
 Awesome Android Learner
 ==================
