@@ -13,6 +13,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Clean Architecture](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/): one way to architect your apps.
 * [Elminating code overhead - Square 2015](https://speakerdeck.com/jakewharton/eliminating-code-overhead-square-hq-2015): Android performance ideas to use from Jacke Warthon.
 * [Jake Wharton - testing robots](https://realm.io/news/kau-jake-wharton-testing-robots/): a testing maintainability idea.
+* [Android Scripts](https://github.com/caipivara/android-scripts): list of scripts that show how to install dependencies from a terminal, copy env variables to gradle.properties files easy, etc...
 
 # Books
 * [Android-Development-Patterns-Professional-Developers](https://www.amazon.com/Android-Development-Patterns-Professional-Developers/dp/0133923681): list of patterns for android development.
