@@ -6,5 +6,5 @@ before_script:
 script:
   - awesome_bot README.md --white-list travis,inthecheesefactory,devoxx,mbitson,bignerdranch,chrome.google.com,color.adobe.com
 
- notifications:
+notifications:
   email: false
