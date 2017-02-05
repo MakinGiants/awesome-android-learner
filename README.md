@@ -57,7 +57,6 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [GCM to optimize battery](https://www.bignerdranch.com/blog/optimize-battery-life-with-androids-gcm-network-manager): clear explanation for GCM use to do requests and save battery.
 
 # Open Source Apps
-* [DuckDuckGo](https://github.com/duckduckgo/android): The DuckDuckGo Android App.
 * [Google IO 2014 compat example](https://github.com/rahulparsani/google-io-2014-compat): Google IO app from 2014!.
 * [Open libra - Material Design Showcase](https://github.com/saulmm/OpenLibra-Material): Cool material design example.
 * [WallSplash - Material Design Showcase](https://github.com/mikepenz/wallsplash-android): wallpaper app but don´t have the last code. :(.
