@@ -97,6 +97,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Android - Material](https://play.google.com/store/apps/details?id=fr.hozakan.materialdesigncolorpalette): see the material palette on your device.
 * [Android - Clean Status Bar](https://play.google.com/store/apps/details?id=com.emmaguy.cleanstatusbar) put a fake clean status bar for google play screenshots.
 * [Texpand](https://play.google.com/store/apps/details?id=com.isaiasmatewos.texpand): save time creating autocomplete texts inside your android test device.
+* [Android tool belt](https://play.google.com/store/apps/details?id=com.tspoon.androidtoolbelt): fill the ram helping to test bad memory escenarios.
 
 # Other Awesomes (categorized list of awesome links)
 * [Android community](https://github.com/tonilopezmr/android-community): list of videos.
