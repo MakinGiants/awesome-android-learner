@@ -65,7 +65,6 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 
 # Courses
 * [Free/paid - OFFICIAL GOOGLE - Udacity](https://www.udacity.com/google): Google android official courses and nanodegree.
-* [Free - OFFICIAL Google Analytics for Mobile apps - Google FREE](https://analyticsacademy.withgoogle.com/course/4): Google analytics academy.
 * [Free - Codepath Android Wiki](https://github.com/codepath/android_guides): guides for android dev from codepath guys.
 * [Free - New Circle Courses](https://newcircle.com/category/android): New circle courses for android.
 
@@ -103,7 +102,6 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Android community](https://github.com/tonilopezmr/android-community): list of videos.
 * [android-blogs](https://github.com/vbauer/android-blogs): List with blogs about Android.
 * [Android libs](https://android-libs.com): simple list of avialable libs.
-* [Libtastic](https://www.libtastic.com/): Discover top Android libraries based on their popularity in high-ranking apps.
 * [Android Arsenal](android-arsenal.com): list of available open libs with GUI, comments and so on.
 * [Github - snowdream awesome](https://github.com/snowdream/awesome-android): Categorized awesome.
 * [Github - wasabeef awesome ui](https://github.com/wasabeef/awesome-android-ui): Categorized awesome.
