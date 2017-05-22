@@ -21,6 +21,9 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [JavaRX Essentials](https://www.amazon.com/RxJava-Essentials-Ivan-Morgillo/dp/1784399108 ): Cool book to learn the cool javaRX.
 * [Async Android](https://www.amazon.com/Asynchronous-Android-Steve-Liles/dp/1783286873 ): Async usages for Android.
 * [Retrofit love working with apis on android](https://leanpub.com/retrofit-love-working-with-apis-on-android): Learn all about Retrofit.
+* [Picasso: Easy Image Loading on Android](https://leanpub.com/picasso-image-loading-on-android): Learn all about loading images with Picasso
+* [Glide: Customizable  Image Loading on Android](https://leanpub.com/glide-image-loading-on-android): Learn all about loading images with Glide
+* [Gson: Enjoy JSON (De-)Serialization in Java](https://leanpub.com/gson-enjoy-json-deserialization-in-java): Learn all about Gson
 
 # Meetups/Talks/Videos
 * [Droidcon NYC 2016 - Espresso: A Screenshot is Worth 1,000 Words](https://www.youtube.com/watch?v=fhx_Ji5s3p4): testing experiences with espresso.
@@ -55,6 +58,12 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Improving UX through performance](https://speakerdeck.com/rejasupotaro/improving-ux-through-performance): explain which libraries they use to get images, improve performance on networking and memory management :).
 * [Task and document api](https://speakerdeck.com/mathieu_calba/task-and-document-api): explains how android manage activities and tasks.
 * [GCM to optimize battery](https://www.bignerdranch.com/blog/optimize-battery-life-with-androids-gcm-network-manager): clear explanation for GCM use to do requests and save battery.
+
+# Tutorial Series
+* [Retrofit Series](https://futurestud.io/tutorials/retrofit-getting-started-and-android-client): 50+ part series on Retrofit
+* [Picasso Series](https://futurestud.io/tutorials/picasso-getting-started-simple-loading): 20+ part series on Picasso
+* [Glide Series](https://futurestud.io/tutorials/glide-getting-started): 25+ part series on Glide
+* [Gson Series](https://futurestud.io/tutorials/gson-getting-started-with-java-json-serialization-deserialization): 30+ part series on Gson
 
 # Open Source Apps
 * [Google IO 2014 compat example](https://github.com/rahulparsani/google-io-2014-compat): Google IO app from 2014!.
