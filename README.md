@@ -48,7 +48,6 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Why use volley](https://developer.android.com/training/volley/index.html): cool explanation volley (wow).
 * [Make Apps Beautiful](https://www.youtube.com/watch?v=CWIc6QE6iNc&list=UUVHFbqXqoYvEWM1Ddxl0QDg): Video to make the apps see beatiful.
 * [Image load - Glide vs Picasso?](http://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en): Comparation from image loading images.
-* [Which android http library to use](https://packetzoom.com/blog/which-android-http-library-to-use.html): cool explanation for http requests and libraries.
 * [Activity launch modes](http://inthecheesefactory.com/blog/understand-android-activity-launchmode/en): launch modes explanation.
 * [AutocompleteTextView examples (including address autocomplete)](http://android.foxykeep.com/dev/how-to-add-autocompletion-to-an-edittext): autotomplete address, accounts and more to copy and paste.
 * [6 Things I wish I knew before I wrote my first app](https://www.philosophicalhacker.com/2015/07/09/6-things-i-wish-i-knew-before-i-wrote-my-first-android-app/): base concepts to learn and avoid performance problems.
