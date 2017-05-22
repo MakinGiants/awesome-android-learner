@@ -10,9 +10,9 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Futurice - best practices](https://github.com/futurice/android-best-practices): Cool updated list of great practices to follow.
 * [Android Study Group conferences list](http://androidstudygroup.github.io/conferences/): list of upcoming and old conferences. WOW!
 * [Wireless debug](https://developer.android.com/studio/command-line/adb.html): how to develop without connect your device through USB.
-* [Clean Architecture](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/): one way to architect your apps.
+* [Clean Architecture](https://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/): one way to architect your apps.
 * [Elminating code overhead - Square 2015](https://speakerdeck.com/jakewharton/eliminating-code-overhead-square-hq-2015): Android performance ideas to use from Jacke Warthon.
-* [Jake Wharton - testing robots](https://realm.io/news/kau-jake-wharton-testing-robots/): a testing maintainability idea.
+* [Jake Wharton - testing robots](https://news.realm.io/news/kau-jake-wharton-testing-robots/): a testing maintainability idea.
 * [Android Scripts](https://github.com/caipivara/android-scripts): list of scripts that show how to install dependencies from a terminal, copy env variables to gradle.properties files easy, etc...
 
 # Books
@@ -48,11 +48,10 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Why use volley](https://developer.android.com/training/volley/index.html): cool explanation volley (wow).
 * [Make Apps Beautiful](https://www.youtube.com/watch?v=CWIc6QE6iNc&list=UUVHFbqXqoYvEWM1Ddxl0QDg): Video to make the apps see beatiful.
 * [Image load - Glide vs Picasso?](http://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en): Comparation from image loading images.
-* [Which android http library to use](https://packetzoom.com/blog/which-android-http-library-to-use.html): cool explanation for http requests and libraries.
 * [Activity launch modes](http://inthecheesefactory.com/blog/understand-android-activity-launchmode/en): launch modes explanation.
 * [AutocompleteTextView examples (including address autocomplete)](http://android.foxykeep.com/dev/how-to-add-autocompletion-to-an-edittext): autotomplete address, accounts and more to copy and paste.
 * [6 Things I wish I knew before I wrote my first app](https://www.philosophicalhacker.com/2015/07/09/6-things-i-wish-i-knew-before-i-wrote-my-first-android-app/): base concepts to learn and avoid performance problems.
-* [Android performance - Omertsimsek](http://www.slideshare.net/omertsimsek/andromance-android-performance-devfest-ankara-2013?qid=7c54c68a-2d60-44ce-b4c8-d5bff3477727&v=qf1&b&from_search=8): because performance matterns there are cool slides about.
+* [Android performance - Omertsimsek](https://www.slideshare.net/omertsimsek/andromance-android-performance-devfest-ankara-2013?qid=7c54c68a-2d60-44ce-b4c8-d5bff3477727&v=qf1&b&from_search=8): because performance matterns there are cool slides about.
 * [Espresso 2.0 presentation](https://docs.google.com/presentation/d/1EtFKPluGiuxZcr4W_cAziEY_--wbY_1otw44XEBv7JA/edit#slide=id.g98a986571_0_184): Testing with espresso 2.0.idcon-whats-new-in-android-testing-2015-jos-alcrreca): how to test!.
 * [Espresso tests "architecture"](http://room-15.github.io/blog/2015/03/19/adventures-in-espresso-p2/): give ideas about how to write tests in a clean and structured way (tests are code at the end... someone will maintain them).
 * [Improving UX through performance](https://speakerdeck.com/rejasupotaro/improving-ux-through-performance): explain which libraries they use to get images, improve performance on networking and memory management :).
@@ -75,7 +74,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 # Courses
 * [Free/paid - OFFICIAL GOOGLE - Udacity](https://www.udacity.com/google): Google android official courses and nanodegree.
 * [Free - Codepath Android Wiki](https://github.com/codepath/android_guides): guides for android dev from codepath guys.
-* [Free - New Circle Courses](https://newcircle.com/category/android): New circle courses for android.
+* [Free - New Circle Courses](https://www.protechtraining.com/training/browse/front-end-web-mobile-development?ncr=1): New circle courses for android.
 
 # Tools
 ## Chrome
@@ -110,7 +109,6 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 # Other Awesomes (categorized list of awesome links)
 * [Android community](https://github.com/tonilopezmr/android-community): list of videos.
 * [android-blogs](https://github.com/vbauer/android-blogs): List with blogs about Android.
-* [Android libs](https://android-libs.com): simple list of avialable libs.
 * [Android Arsenal](android-arsenal.com): list of available open libs with GUI, comments and so on.
 * [Github - snowdream awesome](https://github.com/snowdream/awesome-android): Categorized awesome.
 * [Github - wasabeef awesome ui](https://github.com/wasabeef/awesome-android-ui): Categorized awesome.
