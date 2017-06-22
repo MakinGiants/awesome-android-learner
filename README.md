@@ -7,6 +7,7 @@ Another Awesome for those who are searching a *study guide* for android developm
 You can find interesting posts, tools, plugins, open source apps, everything that may help to develop more and better android things.
 
 # Random
+* [Gitlab-ci Toolbox for Android](http://makingiants.github.io/blog/gitlabci-toolbox-for-android/): guide to setup your own gitlab ci runner with useful scripts for android.
 * [Futurice - best practices](https://github.com/futurice/android-best-practices): Cool updated list of great practices to follow.
 * [Android Study Group conferences list](http://androidstudygroup.github.io/conferences/): list of upcoming and old conferences. WOW!
 * [Wireless debug](https://developer.android.com/studio/command-line/adb.html): how to develop without connect your device through USB.
