@@ -34,6 +34,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 # Podcasts
 * [Fragmented podcast](http://fragmentedpodcast.com/): Donn Felker and other folks talking about android, follow on [twitter](https://twitter.com/FragmentedCast).
 * [Talking Kotlin](http://talkingkotlin.com/extensions-with-jake-wharton/): podcast focused on Kotlin.
+* [Android Backstage](http://androidbackstage.blogspot.com.co/): google engineers talking about android.
 
 # Posts
 * [Android studio tips tricks](https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2#.y9qzrinr6): cool  setups and tips for Android Studio.
