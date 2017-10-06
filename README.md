@@ -13,6 +13,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Wireless debug](https://developer.android.com/studio/command-line/adb.html): how to develop without connect your device through USB.
 * [Clean Architecture](https://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/): one way to architect your apps.
 * [Elminating code overhead - Square 2015](https://speakerdeck.com/jakewharton/eliminating-code-overhead-square-hq-2015): Android performance ideas to use from Jacke Warthon.
+<<<<<<< HEAD
 * [Jake Wharton - testing robots](https://academy.realm.io/posts/kau-jake-wharton-testing-robots/): a testing maintainability idea.
 * [Android Scripts](https://github.com/caipivara/awesome-android-scripts): list of scripts that show how to install dependencies from a terminal, copy env variables to gradle.properties files easy, etc...
 
