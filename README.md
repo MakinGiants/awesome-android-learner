@@ -39,6 +39,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Android Backstage](http://androidbackstage.blogspot.com.co/): google engineers talking about android.
 
 # Posts
+* [A successful XML naming convention/Jeroen Mols](https://jeroenmols.com/blog/2016/03/07/resourcenaming/): good tips about ids to make your apps more maintainable.
 * [Android studio tips tricks](https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2#.y9qzrinr6): cool  setups and tips for Android Studio.
 * [Understanding Android Naming Conventions](https://jasonatwood.io/archives/1423): explains the idea behind each basic class of android framework to avoid confusions.
 * [Enable Lollipop colors/icon for chrome](https://developers.google.com/web/updates/2014/11/Support-for-theme-color-in-Chrome-39-for-Android): you can add colors and icon to chrome bar to make you site beautiful and theme based on mobile.
