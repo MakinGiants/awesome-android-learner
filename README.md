@@ -89,6 +89,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Image optim](https://imageoptim.com/es.html): Make your assets smaller. `#brew cask install imageoptim`.
 * [Sip](https://itunes.apple.com/co/app/sip/id507257563?l=en&mt=12): cool color picker.
 * [Alfi](https://github.com/cesarferreira/alfi): check new versions for your dependencies from terminal.
+* [romannurik/MaterialColorsApp](https://github.com/romannurik/MaterialColorsApp): awesome color picker with material design in mind to guide you picking the right colors.
 
 ## Web
 * [Adobe color](https://color.adobe.com/create/color-wheel): helps to define colors pallete for our apps.
