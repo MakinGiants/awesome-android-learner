@@ -7,7 +7,7 @@ Another Awesome for those who are searching a *study guide* for android developm
 You can find interesting posts, tools, plugins, open source apps, everything that may help to develop more and better android things.
 
 # Random
-* [Gitlab-ci Toolbox for Android](http://makingiants.github.io/blog/gitlabci-toolbox-for-android/): guide to setup your own gitlab ci runner with useful scripts for android.
+* [Gitlab-ci Toolbox for Android](http://blog.makingiants.com/gitlabci-toolbox-for-android/): guide to setup your own gitlab ci runner with useful scripts for android.
 * [Futurice - best practices](https://github.com/futurice/android-best-practices): Cool updated list of great practices to follow.
 * [Android Study Group conferences list](http://androidstudygroup.github.io/conferences/): list of upcoming and old conferences. WOW!
 * [Wireless debug](https://developer.android.com/studio/command-line/adb.html): how to develop without connect your device through USB.
@@ -57,7 +57,6 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Android performance - Omertsimsek](https://www.slideshare.net/omertsimsek/andromance-android-performance-devfest-ankara-2013?qid=7c54c68a-2d60-44ce-b4c8-d5bff3477727&v=qf1&b&from_search=8): because performance matterns there are cool slides about.
 * [Espresso 2.0 presentation](https://docs.google.com/presentation/d/1EtFKPluGiuxZcr4W_cAziEY_--wbY_1otw44XEBv7JA/edit#slide=id.g98a986571_0_184): Testing with espresso 2.0.idcon-whats-new-in-android-testing-2015-jos-alcrreca): how to test!.
 * [Espresso tests "architecture"](http://room-15.github.io/blog/2015/03/19/adventures-in-espresso-p2/): give ideas about how to write tests in a clean and structured way (tests are code at the end... someone will maintain them).
-* [Improving UX through performance](https://speakerdeck.com/rejasupotaro/improving-ux-through-performance): explain which libraries they use to get images, improve performance on networking and memory management :).
 * [Task and document api](https://speakerdeck.com/mathieu_calba/task-and-document-api): explains how android manage activities and tasks.
 * [GCM to optimize battery](https://www.bignerdranch.com/blog/optimize-battery-life-with-androids-gcm-network-manager): clear explanation for GCM use to do requests and save battery.
 * [Modal Bottom Sheet tutorial](http://www.devexchanges.info/2016/03/modal-bottom-sheet-with-material-design.html): shows how to create a BottomSheetDialogFragment and show it clearly.
@@ -87,8 +86,8 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 ## Mac
 * [Android Tool](https://github.com/mortenjust/androidtool-mac): easy take iOS and Android screenshots.
 * [Image optim](https://imageoptim.com/es.html): Make your assets smaller. `#brew cask install imageoptim`.
-* [Sip](https://itunes.apple.com/co/app/sip/id507257563?l=en&mt=12): cool color picker.
 * [Alfi](https://github.com/cesarferreira/alfi): check new versions for your dependencies from terminal.
+* [romannurik/MaterialColorsApp](https://github.com/romannurik/MaterialColorsApp): awesome color picker with material design in mind to guide you picking the right colors.
 
 ## Web
 * [Adobe color](https://color.adobe.com/create/color-wheel): helps to define colors pallete for our apps.
