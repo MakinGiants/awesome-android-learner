@@ -7,6 +7,7 @@ Another Awesome for those who are searching a *study guide* for android developm
 You can find interesting posts, tools, plugins, open source apps, everything that may help to develop more and better android things.
 
 # Random
+* [caster.io - Android Clean architecture](https://caster.io/courses/android-clean-architecture/): 2 hours of videous around clean architecture and how this may help ups.
 * [Gitlab-ci Toolbox for Android](http://blog.makingiants.com/gitlabci-toolbox-for-android/): guide to setup your own gitlab ci runner with useful scripts for android.
 * [Futurice - best practices](https://github.com/futurice/android-best-practices): Cool updated list of great practices to follow.
 * [Android Study Group conferences list](http://androidstudygroup.github.io/conferences/): list of upcoming and old conferences. WOW!
