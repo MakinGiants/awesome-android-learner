@@ -62,6 +62,8 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Modal Bottom Sheet tutorial](http://www.devexchanges.info/2016/03/modal-bottom-sheet-with-material-design.html): shows how to create a BottomSheetDialogFragment and show it clearly.
 
 # Tutorial Series
+* [Google / android-training](https://codelabs.developers.google.com/android-training/): basic training around android offered by google
+* [Google  / advanced-android-training](https://codelabs.developers.google.com/advanced-android-training/): training around android offered by google with more advanced topics.
 * [Retrofit Series](https://futurestud.io/tutorials/retrofit-getting-started-and-android-client): 50+ part series on Retrofit
 * [Picasso Series](https://futurestud.io/tutorials/picasso-getting-started-simple-loading): 20+ part series on Picasso
 * [Glide Series](https://futurestud.io/tutorials/glide-getting-started): 25+ part series on Glide
