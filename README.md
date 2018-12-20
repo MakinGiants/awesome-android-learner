@@ -34,7 +34,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Free - Android Developers](https://www.youtube.com/user/androiddevelopers): youtube list of cool videos.
 
 # Podcasts
-* [Fragmented podcast](http://fragmentedpodcast.com/): Donn Felker and other folks talking about android, follow on [twitter](https://twitter.com/FragmentedCast).
+* [Fragmented podcast](http://fragmentedpodcast.com/): Donn Felker and Kaushik Gopal and other folks talking about android, follow on [twitter](https://twitter.com/FragmentedCast).
 * [Talking Kotlin](http://talkingkotlin.com/extensions-with-jake-wharton/): podcast focused on Kotlin.
 * [Android Backstage](http://androidbackstage.blogspot.com.co/): google engineers talking about android.
 
