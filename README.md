@@ -60,6 +60,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Task and document api](https://speakerdeck.com/mathieu_calba/task-and-document-api): explains how android manage activities and tasks.
 * [GCM to optimize battery](https://www.bignerdranch.com/blog/optimize-battery-life-with-androids-gcm-network-manager): clear explanation for GCM use to do requests and save battery.
 * [Modal Bottom Sheet tutorial](http://www.devexchanges.info/2016/03/modal-bottom-sheet-with-material-design.html): shows how to create a BottomSheetDialogFragment and show it clearly.
+* [android-understanding-gradle-dependencies-and-resolving-conflicts](https://www.devsbedevin.com/android-understanding-gradle-dependencies-and-resolving-conflicts/): expose some ideas around gradle and android dependencies setup.
 
 # Tutorial Series
 * [Retrofit Series](https://futurestud.io/tutorials/retrofit-getting-started-and-android-client): 50+ part series on Retrofit
