@@ -49,7 +49,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Material Design Colors Explanation](https://www.youtube.com/watch?v=xYkz0Ueg0L4): learn how to use colors with material design ideas in youtube.
 * [Material animations shared elements AppCompat - Antonio Leiva](http://antonioleiva.com/material-design-everywhere/): how animate views between activities!.
 * [CodePath - Lollipop Animations](https://guides.codepath.com/android/Circular-Reveal-Animation): add lollipop animations to your app.
-* [Why use volley](https://developer.android.com/training/volley): cool explanation volley (wow).
+* [Why use volley](https://developer.android.com/training/volley/): cool explanation volley (wow).
 * [Make Apps Beautiful](https://www.youtube.com/watch?v=CWIc6QE6iNc&list=UUVHFbqXqoYvEWM1Ddxl0QDg): Video to make the apps see beatiful.
 * [Image load - Glide vs Picasso?](http://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en): Comparation from image loading images.
 * [Activity launch modes](http://inthecheesefactory.com/blog/understand-android-activity-launchmode/en): launch modes explanation.
