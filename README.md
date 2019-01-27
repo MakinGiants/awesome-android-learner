@@ -90,6 +90,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [romannurik/MaterialColorsApp](https://github.com/romannurik/MaterialColorsApp): awesome color picker with material design in mind to guide you picking the right colors.
 
 ## Web
+* [Sromannurik/lidesCodeHighlighter](https://romannurik.github.io/SlidesCodeHighlighter/): highlight your code snippets for speakers.
 * [Adobe color](https://color.adobe.com/create/color-wheel): helps to define colors pallete for our apps.
 * [Material Design Color Generator](http://mcg.mbitson.com/#/): let you create the full pallete from a single color in hexa, rgb, etc...
 * [Android Demo mode](https://android.googlesource.com/platform/frameworks/base/+/android-6.0.0_r1/packages/SystemUI/docs/demo_mode.md): change status bar items for screenshots like wifi at full level.
