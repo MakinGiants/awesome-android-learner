@@ -38,6 +38,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Android Backstage](http://androidbackstage.blogspot.com): google engineers talking about android.
 
 # Posts
+* [Android architecture post series](http://www.therealjoshua.com/2011/11/android-architecture-part-1-intro/): explains and give a full overview of architure for android.
 * [A successful XML naming convention/Jeroen Mols](https://jeroenmols.com/blog/2016/03/07/resourcenaming/): good tips about ids to make your apps more maintainable.
 * [Android studio tips tricks](https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2#.y9qzrinr6): cool  setups and tips for Android Studio.
 * [Understanding Android Naming Conventions](https://jasonatwood.io/archives/1423): explains the idea behind each basic class of android framework to avoid confusions.
