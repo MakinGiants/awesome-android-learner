@@ -64,6 +64,8 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [android-understanding-gradle-dependencies-and-resolving-conflicts](https://www.devsbedevin.com/android-understanding-gradle-dependencies-and-resolving-conflicts/): expose some ideas around gradle and android dependencies setup.
 
 # Tutorial Series
+* [Google / android-training](https://codelabs.developers.google.com/android-training/): basic training around android offered by google
+* [Google  / advanced-android-training](https://codelabs.developers.google.com/advanced-android-training/): training around android offered by google with more advanced topics.
 * [Retrofit Series](https://futurestud.io/tutorials/retrofit-getting-started-and-android-client): 50+ part series on Retrofit
 * [Picasso Series](https://futurestud.io/tutorials/picasso-getting-started-simple-loading): 20+ part series on Picasso
 * [Glide Series](https://futurestud.io/tutorials/glide-getting-started): 25+ part series on Glide
