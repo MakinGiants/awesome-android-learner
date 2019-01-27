@@ -97,7 +97,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/): Assets management.
 * [Material Palette](https://www.materialpalette.com/): helps to define colors on material design interfaces.
 * [Material Design Icons](https://material.io/tools/icons/?style=baseline): search and download official android icons.
-* [Device sizes](http://viewportsizes.com/): check screen size for each device.
+
 
 ## Android Studio/ Gradle Plugins
 * [Adb-Idea](https://github.com/pbreault/adb-idea): Helps you to reset app data, uninstall app, and others from android studio and other
