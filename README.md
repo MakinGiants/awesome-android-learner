@@ -10,10 +10,9 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Gitlab-ci Toolbox for Android](http://blog.makingiants.com/gitlabci-toolbox-for-android/): guide to setup your own gitlab ci runner with useful scripts for android.
 * [Futurice - best practices](https://github.com/futurice/android-best-practices): Cool updated list of great practices to follow.
 * [Android Study Group conferences list](http://androidstudygroup.github.io/conferences/): list of upcoming and old conferences. WOW!
-* [Wireless debug](https://developer.android.com/studio/command-line/adb.html): how to develop without connect your device through USB.
+* [Wireless debug](https://developer.android.com/studio/command-line/adb): how to develop without connect your device through USB.
 * [Clean Architecture](https://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/): one way to architect your apps.
 * [Elminating code overhead - Square 2015](https://speakerdeck.com/jakewharton/eliminating-code-overhead-square-hq-2015): Android performance ideas to use from Jacke Warthon.
-<<<<<<< HEAD
 * [Jake Wharton - testing robots](https://academy.realm.io/posts/kau-jake-wharton-testing-robots/): a testing maintainability idea.
 * [Android Scripts](https://github.com/caipivara/awesome-android-scripts): list of scripts that show how to install dependencies from a terminal, copy env variables to gradle.properties files easy, etc...
 
@@ -34,9 +33,9 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Free - Android Developers](https://www.youtube.com/user/androiddevelopers): youtube list of cool videos.
 
 # Podcasts
-* [Fragmented podcast](http://fragmentedpodcast.com/): Donn Felker and Kaushik Gopal and other folks talking about android, follow on [twitter](https://twitter.com/FragmentedCast).
+* [Fragmented podcast](https://fragmentedpodcast.com/): Donn Felker and other folks talking about android, follow on [twitter](https://twitter.com/FragmentedCast).
 * [Talking Kotlin](http://talkingkotlin.com/extensions-with-jake-wharton/): podcast focused on Kotlin.
-* [Android Backstage](http://androidbackstage.blogspot.com.co/): google engineers talking about android.
+* [Android Backstage](http://androidbackstage.blogspot.com): google engineers talking about android.
 
 # Posts
 * [A successful XML naming convention/Jeroen Mols](https://jeroenmols.com/blog/2016/03/07/resourcenaming/): good tips about ids to make your apps more maintainable.
@@ -49,7 +48,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Material Design Colors Explanation](https://www.youtube.com/watch?v=xYkz0Ueg0L4): learn how to use colors with material design ideas in youtube.
 * [Material animations shared elements AppCompat - Antonio Leiva](http://antonioleiva.com/material-design-everywhere/): how animate views between activities!.
 * [CodePath - Lollipop Animations](https://guides.codepath.com/android/Circular-Reveal-Animation): add lollipop animations to your app.
-* [Why use volley](https://developer.android.com/training/volley/index.html): cool explanation volley (wow).
+* [Why use volley](https://developer.android.com/training/volley/): cool explanation volley (wow).
 * [Make Apps Beautiful](https://www.youtube.com/watch?v=CWIc6QE6iNc&list=UUVHFbqXqoYvEWM1Ddxl0QDg): Video to make the apps see beatiful.
 * [Image load - Glide vs Picasso?](http://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en): Comparation from image loading images.
 * [Activity launch modes](http://inthecheesefactory.com/blog/understand-android-activity-launchmode/en): launch modes explanation.
@@ -97,8 +96,8 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Density Converter](http://density.brdrck.me/): helps to see values for each density.
 * [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/): Assets management.
 * [Material Palette](https://www.materialpalette.com/): helps to define colors on material design interfaces.
-* [Material Design Icons](https://material.io/icons/): search and download official android icons.
-* [Device sizes](http://viewportsizes.com/): check screen size for each device.
+* [Material Design Icons](https://material.io/tools/icons/?style=baseline): search and download official android icons.
+
 
 ## Android Studio/ Gradle Plugins
 * [Adb-Idea](https://github.com/pbreault/adb-idea): Helps you to reset app data, uninstall app, and others from android studio and other
@@ -106,7 +105,6 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 
 ## Apps for test devices (for you)
 * [Android - Material](https://play.google.com/store/apps/details?id=fr.hozakan.materialdesigncolorpalette): see the material palette on your device.
-* [Android - Clean Status Bar](https://play.google.com/store/apps/details?id=com.emmaguy.cleanstatusbar) put a fake clean status bar for google play screenshots.
 * [Texpand](https://play.google.com/store/apps/details?id=com.isaiasmatewos.texpand): save time creating autocomplete texts inside your android test device.
 * [Android tool belt](https://play.google.com/store/apps/details?id=com.tspoon.androidtoolbelt): fill the ram helping to test bad memory escenarios.
 
