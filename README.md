@@ -64,6 +64,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [android-understanding-gradle-dependencies-and-resolving-conflicts](https://www.devsbedevin.com/android-understanding-gradle-dependencies-and-resolving-conflicts/): expose some ideas around gradle and android dependencies setup.
 
 # Tutorial Series
+* [Amejia481/Associate-Android-Developer-Certification](https://github.com/Amejia481/Associate-Android-Developer-Certification): an awesome for android developer certifications.
 * [Google / android-training](https://codelabs.developers.google.com/android-training/): basic training around android offered by google
 * [Google  / advanced-android-training](https://codelabs.developers.google.com/advanced-android-training/): training around android offered by google with more advanced topics.
 * [Retrofit Series](https://futurestud.io/tutorials/retrofit-getting-started-and-android-client): 50+ part series on Retrofit
