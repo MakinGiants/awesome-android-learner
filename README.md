@@ -70,6 +70,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Picasso Series](https://futurestud.io/tutorials/picasso-getting-started-simple-loading): 20+ part series on Picasso
 * [Glide Series](https://futurestud.io/tutorials/glide-getting-started): 25+ part series on Glide
 * [Gson Series](https://futurestud.io/tutorials/gson-getting-started-with-java-json-serialization-deserialization): 30+ part series on Gson
+* [App Builders Switzerland 2019](https://www.youtube.com/playlist?reload=9&list=PLLcE3DL3f5Bx0IAHAw6hsdZ3z_samz2iX&app=desktop): each talk for App Builders Switzerland 2019.
 
 # Open Source Apps
 * [Google IO 2014 compat example](https://github.com/rahulparsani/google-io-2014-compat): Google IO app from 2014!.
