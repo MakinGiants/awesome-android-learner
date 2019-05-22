@@ -62,6 +62,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [GCM to optimize battery](https://www.bignerdranch.com/blog/optimize-battery-life-with-androids-gcm-network-manager): clear explanation for GCM use to do requests and save battery.
 * [Modal Bottom Sheet tutorial](http://www.devexchanges.info/2016/03/modal-bottom-sheet-with-material-design.html): shows how to create a BottomSheetDialogFragment and show it clearly.
 * [android-understanding-gradle-dependencies-and-resolving-conflicts](https://www.devsbedevin.com/android-understanding-gradle-dependencies-and-resolving-conflicts/): expose some ideas around gradle and android dependencies setup.
+* [Troubleshooting proguard issues](https://medium.com/androiddevelopers/troubleshooting-proguard-issues-on-android-bce9de4f8a74): cool article showing proguard tools on android studio and how to use them to fix some issues.
 
 # Tutorial Series
 * [Google / android-training](https://codelabs.developers.google.com/android-training/): basic training around android offered by google
