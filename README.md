@@ -62,6 +62,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [GCM to optimize battery](https://www.bignerdranch.com/blog/optimize-battery-life-with-androids-gcm-network-manager): clear explanation for GCM use to do requests and save battery.
 * [Modal Bottom Sheet tutorial](http://www.devexchanges.info/2016/03/modal-bottom-sheet-with-material-design.html): shows how to create a BottomSheetDialogFragment and show it clearly.
 * [android-understanding-gradle-dependencies-and-resolving-conflicts](https://www.devsbedevin.com/android-understanding-gradle-dependencies-and-resolving-conflicts/): expose some ideas around gradle and android dependencies setup.
+* [Reduce parcelable boilerplate with kotlin](https://medium.com/@BladeCoder/reducing-parcelable-boilerplate-code-using-kotlin-741c3124a49a): shows how extension functions helps to reduce this code and make it cleaner.
 
 # Tutorial Series
 * [Google / android-training](https://codelabs.developers.google.com/android-training/): basic training around android offered by google
