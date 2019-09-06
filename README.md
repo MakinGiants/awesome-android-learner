@@ -85,6 +85,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Free/paid - OFFICIAL GOOGLE - Udacity](https://www.udacity.com/google): Google android official courses and nanodegree.
 * [Free - Codepath Android Wiki](https://github.com/codepath/android_guides): guides for android dev from codepath guys.
 * [Free - New Circle Courses](https://www.protechtraining.com/training/browse/front-end-web-mobile-development?ncr=1): New circle courses for android.
+* [Rxjava design patterns](https://www.linkedin.com/learning/rxjava-design-patterns-for-android-developers): course oriented on RXJava for Android.
 
 # Tools
 ## Chrome
