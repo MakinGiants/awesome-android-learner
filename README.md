@@ -67,6 +67,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Reduce parcelable boilerplate with kotlin](https://medium.com/@BladeCoder/reducing-parcelable-boilerplate-code-using-kotlin-741c3124a49a): shows how extension functions helps to reduce this code and make it cleaner.
 
 # Tutorial Series
+* [Amejia481/Associate-Android-Developer-Certification](https://github.com/Amejia481/Associate-Android-Developer-Certification): an awesome for android developer certifications.
 * [Google / android-training](https://codelabs.developers.google.com/android-training/): basic training around android offered by google
 * [Google  / advanced-android-training](https://codelabs.developers.google.com/advanced-android-training/): training around android offered by google with more advanced topics.
 * [Retrofit Series](https://futurestud.io/tutorials/retrofit-getting-started-and-android-client): 50+ part series on Retrofit
