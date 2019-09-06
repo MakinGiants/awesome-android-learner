@@ -7,6 +7,7 @@ Another Awesome for those who are searching a *study guide* for android developm
 You can find interesting posts, tools, plugins, open source apps, everything that may help to develop more and better android things.
 
 # Random
+* [dbacinski/Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin): some implementations for cool patterns that will help you to have better code.
 * [Gitlab-ci Toolbox for Android](http://blog.makingiants.com/gitlabci-toolbox-for-android/): guide to setup your own gitlab ci runner with useful scripts for android.
 * [Futurice - best practices](https://github.com/futurice/android-best-practices): Cool updated list of great practices to follow.
 * [Android Study Group conferences list](http://androidstudygroup.github.io/conferences/): list of upcoming and old conferences. WOW!
@@ -63,6 +64,7 @@ You can find interesting posts, tools, plugins, open source apps, everything tha
 * [Modal Bottom Sheet tutorial](http://www.devexchanges.info/2016/03/modal-bottom-sheet-with-material-design.html): shows how to create a BottomSheetDialogFragment and show it clearly.
 * [android-understanding-gradle-dependencies-and-resolving-conflicts](https://www.devsbedevin.com/android-understanding-gradle-dependencies-and-resolving-conflicts/): expose some ideas around gradle and android dependencies setup.
 * [Troubleshooting proguard issues](https://medium.com/androiddevelopers/troubleshooting-proguard-issues-on-android-bce9de4f8a74): cool article showing proguard tools on android studio and how to use them to fix some issues.
+* [Reduce parcelable boilerplate with kotlin](https://medium.com/@BladeCoder/reducing-parcelable-boilerplate-code-using-kotlin-741c3124a49a): shows how extension functions helps to reduce this code and make it cleaner.
 
 # Tutorial Series
 * [Google / android-training](https://codelabs.developers.google.com/android-training/): basic training around android offered by google
